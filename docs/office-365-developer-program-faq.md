@@ -2,14 +2,15 @@
 title: Häufig gestellte Fragen zum Office 365-Entwicklerprogramm
 description: Häufig gestellte Fragen zum Office 365-Entwicklerprogramm.
 ms.date: 04/16/2018
-ms.openlocfilehash: 53e0f076aeb5d9a08ed1801d71b5dcd656c6fe14
-ms.sourcegitcommit: b7da765007f295d17f23b7d4a638af760ecd3b96
+ms.openlocfilehash: 7d02bed6ba67c2a0eac0db6674848d9e6f39630b
+ms.sourcegitcommit: 3651125e6eebc1d630436a260051eca929f3306b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/17/2018
-ms.locfileid: "25670372"
+ms.lasthandoff: 10/27/2018
+ms.locfileid: "25829252"
 ---
 # <a name="office-365-developer-program-faq"></a>Häufig gestellte Fragen zum Office 365-Entwicklerprogramm
+
 
 Nachfolgend finden Sie häufig gestellte Fragen zum Office 365-Entwicklerprogramm.
 
@@ -65,7 +66,7 @@ Ihr Abonnement gilt für ein Jahr. Das Ablaufdatum, zusammen mit dem Abonnementn
 
 ### <a name="when-my-subscription-is-about-to-expire-can-i-extend-it"></a>Kann ich mein Abonnement verlängern, wenn es bald abläuft?
 
-Derzeit können vorhandene Abonnements nicht verlängert werden. Sie können Ihr Abonnement jedoch durch den Erwerb einer besonderen Option für 99,00 Euro/Jahr verlängern. Wenn Ihr Abonnement bald abläuft, erhalten Sie eine Erinnerung zur Verlängerung, die Anweisungen zum Verlängern des Abonnements enthält.
+Derzeit können vorhandene Abonnements nicht verlängert werden. Sie können Ihr Abonnement jedoch durch den Erwerb einer besonderen Option für 99,00 USD pro Benutzer pro Jahr verlängern. Wenn Ihr Abonnement bald abläuft, erhalten Sie eine Erinnerung zur Verlängerung, die Anweisungen zum Verlängern des Abonnements enthält.
 
 <a name="account-types"> </a>
 
