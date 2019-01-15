@@ -2,12 +2,13 @@
 title: Richten Sie ein Office 365-Entwicklerabonnement ein
 description: Richten Sie ein Office 365-Entwicklerabonnement ein, um unabhängig von Ihrer Produktionsumgebung Lösungen zu entwickeln und zu testen.
 ms.date: 03/20/2018
-ms.openlocfilehash: 58579946320e32d0b076488e28e5a7166f9774bf
-ms.sourcegitcommit: b7da765007f295d17f23b7d4a638af760ecd3b96
+localization_priority: Priority
+ms.openlocfilehash: 76d8523d6c86d2d5dc6b277999b4025d7027dbf0
+ms.sourcegitcommit: 5929843b58730078fa4a92a8cc3ab44291462585
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/17/2018
-ms.locfileid: "25670379"
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28015128"
 ---
 # <a name="set-up-an-office-365-developer-subscription"></a>Richten Sie ein Office 365-Entwicklerabonnement ein 
 
