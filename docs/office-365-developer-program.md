@@ -1,22 +1,22 @@
 ---
 title: Treten Sie dem Office 365-Entwicklerprogramm bei.
-description: Treten Sie dem Office 365-Entwicklerprogramm bei, um unabhängig von Ihrer Produktionsumgebung Office 365-Lösungen zu entwickeln und zu testen.
-ms.date: 03/20/2018
+description: Treten Sie dem Office 365-Entwicklerprogramm bei, um unabhängig von Ihrer Produktionsumgebung Office 365-Lösungen zu entwickeln.
+ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 9f2c07a16af6e164032c66c1ee93ee45417567ca
-ms.sourcegitcommit: 5929843b58730078fa4a92a8cc3ab44291462585
+ms.openlocfilehash: a2c6c6436b915503463c30fb613c11949770b9b2
+ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28015114"
+ms.lasthandoff: 04/02/2019
+ms.locfileid: "31041984"
 ---
 # <a name="welcome-to-the-office-365-developer-program"></a>Willkommen beim Office 365-Entwicklerprogramm
 
-Überzeugen Sie Ihre Freunde und Kollegen vom Office 365-Entwicklerprogramm. Verwenden Sie das Office 365-Entwicklerabonnement, um unabhängig von Ihrer Produktionsumgebung Lösungen zu entwickeln und zu testen. Sie können Lösungen für Microsoft Teams, Office-Add-Ins, Microsoft Graph, SharePoint Framework, SharePoint-Add-Ins und vieles mehr erstellen.
+Überzeugen Sie Ihre Freunde und Kollegen vom Office 365-Entwicklerprogramm. Verwenden Sie das Office 365-Entwicklerabonnement, um unabhängig von Ihrer Produktionsumgebung Lösungen zu entwickeln. Sie können Lösungen für Microsoft Teams, Office-Add-Ins, Microsoft Graph, SharePoint Framework, SharePoint-Add-Ins und vieles mehr erstellen.
 
 ## <a name="join-the-office-365-developer-program"></a>Treten Sie dem Office 365-Entwicklerprogramm bei.
 
-1. Rufen Sie die Seite [Treten Sie dem Office 365-Entwicklerprogramm bei](https://developer.microsoft.com/de-DE/office/dev-program) auf. 
+1. Rufen Sie die Seite [Treten Sie dem Office 365-Entwicklerprogramm bei](https://developer.microsoft.com/office/dev-program) auf. 
 
 2. Wählen Sie in der oberen rechten Ecke **Anmelden** aus, um sich mit Ihrem Microsoft-Konto oder Ihrem Azure Active Directory-fähigen E-Mail-Konto anzumelden. 
 
@@ -57,4 +57,8 @@ ms.locfileid: "28015114"
 
 - Nachdem Sie ein Entwicklerabonnement abgeschlossen haben, [verwenden Sie Ihr Abonnement](build-office-365-solutions.md), um die gewünschten Lösungen zu erstellen.
 
-- Häufig gestellte Fragen zum Office 365-Entwicklerprogramm finden Sie in den [Häufig gestellten Fragen](office-365-developer-program-faq.md). 
+- Informationen zu ablaufende Abonnements finden Sie unter [Ablauf und Verlängerung für das Abonnement](subscription-expiration-and-renewal.md).
+
+- Häufig gestellte Fragen zum Office 365-Entwicklerprogramm finden Sie in den [Häufig gestellten Fragen](office-365-developer-program-faq.md).
+
+
