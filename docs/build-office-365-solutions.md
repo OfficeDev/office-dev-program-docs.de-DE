@@ -3,12 +3,12 @@ title: Verwenden Ihres Entwicklerabonnements zum Erstellen von Office 365-Lösun
 description: Verwenden Sie Ihr Office 365-Entwicklerabonnement, um die Lösungen zu erstellen, die Ihren Vorstellungen entsprechen.
 ms.date: 03/20/2018
 localization_priority: Priority
-ms.openlocfilehash: 375514e1bc42742810c4d8a56a59fe24140abb27
-ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
+ms.openlocfilehash: 624ff0c7feb8eb5a824c68e337c48bff39aed747
+ms.sourcegitcommit: 49693a2a5529e1371f0f9fac4e6f6db7dcbf010a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31041998"
+ms.lasthandoff: 04/11/2019
+ms.locfileid: "31808100"
 ---
 # <a name="use-your-developer-subscription-to-build-office-365-solutions"></a>Verwenden Ihres Entwicklerabonnements zum Erstellen von Office 365-Lösungen
 
@@ -24,7 +24,7 @@ So können Sie Microsoft Teams einrichten und mit der Codierung beginnen
 2. Richten Sie Ihre Entwicklungsumgebung ein. Dieser Prozess variiert in Abhängigkeit vom Typ der App oder des Diensts, die bzw. den Sie erstellen. Ausführliche Informationen finden Sie in einem der folgenden Themen:
 
   - [Erste Schritte mit der Microsoft Teams-Plattform mit Node.js](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-nodejs-app-studio)
-  - [Erste Schritte mit der Microsoft Teams-Plattform mit C#/.NET]https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
+  - [Erste Schritte mit der Microsoft Teams-Plattform mit C#/.NET](https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
 
 ## <a name="microsoft-graph"></a>Microsoft Graph
 
