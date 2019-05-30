@@ -3,12 +3,12 @@ title: Häufig gestellte Fragen zum Office 365-Entwicklerprogramm
 description: Häufig gestellte Fragen zum Office 365-Entwicklerprogramm.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: cc87dd169705e4ac37e521ef8ca5d8529d810fe7
-ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
+ms.openlocfilehash: 5b18c4e3632b8e498798e7238cbd7342c270eb8d
+ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31042012"
+ms.lasthandoff: 05/28/2019
+ms.locfileid: "34490976"
 ---
 # <a name="office-365-developer-program-faq"></a>Häufig gestellte Fragen zum Office 365-Entwicklerprogramm
 
@@ -21,7 +21,7 @@ Das Office 365-Entwicklerprogramm wurde entwickelt, um Ihnen zu helfen, menschen
 
 - [Excel](https://developer.microsoft.com/excel)-, [Outlook](https://developer.microsoft.com/outlook)-, [Word](https://developer.microsoft.com/word)- und [PowerPoint](https://developer.microsoft.com/powerpoint)-Web-Add-Ins
 - [SharePoint](https://developer.microsoft.com/sharepoint)
-- [Microsoft Teams](https://developer.microsoft.com/microsoft-teams)
+- [Microsoft Teams](https://developer.microsoft.com/microsoft-teams)
 - [Microsoft Graph](https://developer.microsoft.com/graph)
 
 Als Teilnehmer des Programms erhalten Sie ein kostenloses Office 365-Entwicklerabonnement mit 25 Benutzerlizenzen erhalten, die Sie zum Erstellen Ihrer Lösungen verwenden können. Dieses Abonnement bleibt so lange aktiv, wie Sie aktiv Lösungen entwickeln und bereitstellen.
@@ -71,14 +71,14 @@ Ihr Entwicklerabonnement umfasst Folgendes:
 - [Microsoft Forms (Plan E5)](https://support.office.com/article/Frequently-asked-questions-about-Microsoft-Forms-495c4242-6102-40a0-add8-df05ed6af61c)
 - [Microsoft Planner](https://products.office.com/compare-all-microsoft-office-products?tab=2)
 - [Microsoft Stream für Office 365 E5 SKU](https://products.office.com/business/office-365-enterprise-e5-business-software)
-- [Microsoft Teams](https://products.office.com/business/office-365-enterprise-e5-business-software)
-- [Verwaltung mobiler Geräte für Office 365](https://support.office.com/article/Set-up-Mobile-Device-Management-MDM-in-Office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)
+- [Microsoft Teams](https://products.office.com/business/office-365-enterprise-e5-business-software)
+- [Verwaltung mobiler Geräte in Office 365](https://support.office.com/article/Set-up-Mobile-Device-Management-MDM-in-Office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)
 - [Office 365 ProPlus](https://products.office.com/business/office-365-proplus-business-software)
 - [PowerApps für Office 365 Plan 2](https://powerapps.microsoft.com/pricing/)
 - [SharePoint Online für Entwickler](https://products.office.com/SharePoint/compare-sharepoint-plans)
-- [Skype for Business Online (Plan 2)](https://products.office.com/skype-for-business/online-meeting-solutions)
+- [Skype for Business Online Plan 2](https://products.office.com/skype-for-business/online-meeting-solutions)
 - [Sway](https://sway.com/)
-- [To-Do (Plan 3)](https://todo.microsoft.com)
+- [To-do (Plan 3)](https://todo.microsoft.com)
 
 ## <a name="does-the-subscription-also-include-a-subscription-to-azure"></a>Umfasst das Abonnement auch ein Abonnement für Azure?
 
@@ -141,7 +141,7 @@ Wenn Sie Probleme beim Einrichten Ihres Abonnements haben, sehen Sie sich die fo
 
 ## <a name="see-also"></a>Siehe auch
 
-- [Treten Sie dem Office 365-Entwicklerprogramm bei.](office-365-developer-program.md)
+- [Treten Sie dem Office 365-Entwicklerprogramm bei](office-365-developer-program.md)
 - [Richten Sie ein Office 365-Entwicklerabonnement ein](office-365-developer-program-get-started.md)
 - [Verwenden Ihres Entwicklerabonnements zum Erstellen von Office 365-Lösungen](build-office-365-solutions.md)
 - [Verlängern eines ablaufenden Abonnements](subscription-expiration-and-renewal.md)

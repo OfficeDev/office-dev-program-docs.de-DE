@@ -4,11 +4,11 @@ description: Richten Sie ein Office 365-Entwicklerabonnement ein, um unabhängig
 ms.date: 04/01/2019
 localization_priority: Priority
 ms.openlocfilehash: 32b32847b50c16c8b8f16b360318af1f18d8d69b
-ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
+ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31042005"
+ms.lasthandoff: 05/28/2019
+ms.locfileid: "34490951"
 ---
 # <a name="set-up-an-office-365-developer-subscription"></a>Richten Sie ein Office 365-Entwicklerabonnement ein 
 
@@ -40,7 +40,7 @@ Richten Sie ein Office 365-Entwicklerabonnement ein, um unabhängig von Ihrer Pr
 
 ## <a name="configure-the-subscription"></a>Konfigurieren des Abonnements
 
-1. Wählen Sie auf Ihrer Profilseite den Link [office.com](https://www.office.com/) aus, und melden Sie sich mit Ihrer Benutzer-ID (z. B. username@domain.onmicrosoft.com) und mit dem Kennwort an, das Sie für Ihr Entwicklerabonnement angegeben haben.
+1. Wählen Sie auf Ihrer Profilseite den Link[office.com](https://www.office.com/)aus, und melden Sie sich mit Ihrer Benutzer-ID (z. B. username@domain.onmicrosoft.com) und mit dem Kennwort an, das Sie für Ihr Entwicklerabonnement angegeben haben.
 
    > [!NOTE] 
    > Melden Sie sich bei Ihrem Abonnement nicht mit Ihren Anmeldeinformationen für das Entwicklerprogramm an.
@@ -101,7 +101,7 @@ Wenn Sie beschließen, dass Sie nicht mehr am Office 365-Entwicklerprogramm teil
 
 ## <a name="see-also"></a>Siehe auch
 
-- [Treten Sie dem Office 365-Entwicklerprogramm bei.](office-365-developer-program.md)
+- [Treten Sie dem Office 365-Entwicklerprogramm bei](office-365-developer-program.md)
 - [Verwenden Ihres Entwicklerabonnements zum Erstellen von Office 365-Lösungen](build-office-365-solutions.md)
 - [Verlängern eines ablaufenden Abonnements](subscription-expiration-and-renewal.md)
 - [Häufig gestellte Fragen zum Office 365-Entwicklerprogramm](office-365-developer-program-faq.md)

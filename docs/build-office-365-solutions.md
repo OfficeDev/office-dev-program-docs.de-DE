@@ -4,11 +4,11 @@ description: Verwenden Sie Ihr Office 365-Entwicklerabonnement, um die Lösungen
 ms.date: 03/20/2018
 localization_priority: Priority
 ms.openlocfilehash: 624ff0c7feb8eb5a824c68e337c48bff39aed747
-ms.sourcegitcommit: 49693a2a5529e1371f0f9fac4e6f6db7dcbf010a
+ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/11/2019
-ms.locfileid: "31808100"
+ms.lasthandoff: 05/28/2019
+ms.locfileid: "34490879"
 ---
 # <a name="use-your-developer-subscription-to-build-office-365-solutions"></a>Verwenden Ihres Entwicklerabonnements zum Erstellen von Office 365-Lösungen
 
@@ -21,10 +21,11 @@ Microsoft Teams ist ein chatbasierter Arbeitsbereich in Office 365, der sich in 
 So können Sie Microsoft Teams einrichten und mit der Codierung beginnen
 
 1. [Bereiten Sie Ihr Office 365-Entwicklerabonnement vor](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-tenant).
-2. Richten Sie Ihre Entwicklungsumgebung ein. Dieser Prozess variiert in Abhängigkeit vom Typ der App oder des Diensts, die bzw. den Sie erstellen. Ausführliche Informationen finden Sie in einem der folgenden Themen:
+2. Richten Sie Ihre Entwicklungsumgebung ein. Dieser Prozess variiert in Abhängigkeit vom Typ der App oder des Diensts, die bzw. den Sie erstellen. Einzelheiten hierzu finden Sie in einem der folgenden Themen:
 
   - [Erste Schritte mit der Microsoft Teams-Plattform mit Node.js](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-nodejs-app-studio)
-  - [Erste Schritte mit der Microsoft Teams-Plattform mit C#/.NET](https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
+  - 
+  [Erste Schritte mit der Microsoft Teams-Plattform mit C#/.NET](https://docs.microsoft.com/de-DE/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
 
 ## <a name="microsoft-graph"></a>Microsoft Graph
 
@@ -44,7 +45,7 @@ Das SharePoint Framework (SPFx) ist ein Seiten- und Webpart-Modell, das vollstä
 
 So richten Sie das SharePoint Framework ein und beginnen mit der Codierung
 
-- [Richten Sie ein Office 365-Entwicklerabonnement ein.](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant)
+- [Richten Sie ein Office 365-Entwicklerabonnement ein](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant).
 - [Einrichten der Entwicklungsumgebung](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment)
 
 ## <a name="sharepoint-add-ins"></a>SharePoint-Add-Ins 
@@ -55,12 +56,12 @@ So richten Sie SharePoint-Add-Ins ein und beginnen mit der Codierung
 
 - [Einrichten Ihres Abonnements](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant)  
 - Einrichten der Entwicklungsumgebung: 
-  - [Erste Schritte zum Erstellen SharePoint-gehosteter SharePoint-Add-Ins](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/get-started-creating-sharepoint-hosted-sharepoint-add-ins)  
-  - [Erste Schritte beim Erstellen von SharePoint-Add-Ins, die von einem Anbieter gehostet werden](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/get-started-creating-provider-hosted-sharepoint-add-ins)  
+  - [Erste Schritte beim Erstellen von von SharePoint gehosteten SharePoint-Add-Ins](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/get-started-creating-sharepoint-hosted-sharepoint-add-ins)  
+  - [Erste Schritte beim Erstellen von von einem Anbieter gehosteten SharePoint-Add-Ins](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/get-started-creating-provider-hosted-sharepoint-add-ins)  
 
 ## <a name="see-also"></a>Siehe auch
 
-- [Treten Sie dem Office 365-Entwicklerprogramm bei.](office-365-developer-program.md)
+- [Treten Sie dem Office 365-Entwicklerprogramm bei](office-365-developer-program.md)
 - [Richten Sie ein Office 365-Entwicklerabonnement ein](office-365-developer-program-get-started.md) 
 - [Verlängern eines ablaufenden Abonnements](subscription-expiration-and-renewal.md)
 - [Häufig gestellte Fragen zum Office 365-Entwicklerprogramm](office-365-developer-program-faq.md) 

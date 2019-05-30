@@ -4,11 +4,11 @@ description: Informationen zur Verlängerung eines ablaufenden Entwicklerabonnem
 ms.date: 04/01/2019
 localization_priority: Priority
 ms.openlocfilehash: 73a286f4a9b3cd4b85237aafcac0adf45e453e7d
-ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
+ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31044666"
+ms.lasthandoff: 05/28/2019
+ms.locfileid: "34491054"
 ---
 # <a name="office-365-developer-program-subscription-expiration-and-renewal"></a>Office 365-Entwicklerprogramm – Ablauf und Verlängerung des Abonnements
 
@@ -70,8 +70,8 @@ Wenn Ihr Abonnement gelöscht wird, zeigt Ihr Dashboard eine Benachrichtigung an
 
 ## <a name="see-also"></a>Siehe auch
 
-- [Beitreten zum Office 365-Entwicklerprogramm](office-365-developer-program.md)
-- [Einrichten eines Office 365-Entwicklerabonnements](office-365-developer-program-get-started.md)
+- [Treten Sie dem Office 365-Entwicklerprogramm bei](office-365-developer-program.md)
+- [Richten Sie ein Office 365-Entwicklerabonnement ein](office-365-developer-program-get-started.md)
 - [Verwenden Ihres Entwicklerabonnements zum Erstellen von Office 365-Lösungen](build-office-365-solutions.md)
 - [Häufig gestellte Fragen zum Office 365-Entwicklerprogramm](office-365-developer-program-faq.md)
 
