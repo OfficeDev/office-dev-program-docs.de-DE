@@ -2,12 +2,12 @@
 title: Verwenden von Beispieldatenpaketen mit Ihrem Office 365 Developer-Abonnement
 description: Hier erfahren Sie, wie Sie Beispieldatenpakete in Ihrem Office 365 Developer-Abonnement für einen schnellen Einstieg in Ihre Sandboxumgebung installieren.
 localization_priority: Priority
-ms.openlocfilehash: 16e605080673678b750ebeab4501ceb980cea6cb
-ms.sourcegitcommit: 76c5e3c9b58026471378e7634d121842690fd517
+ms.openlocfilehash: 8c6c5c634080e951ca2e60d0d6236db1331d44ae
+ms.sourcegitcommit: 6b77e649d1be568a71b6ec572f9d0d2c7cea6f3e
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/10/2019
-ms.locfileid: "35618848"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35902347"
 ---
 # <a name="use-sample-data-packs-with-your-office-365-developer-subscription"></a>Verwenden von Beispieldatenpaketen mit Ihrem Office 365 Developer-Abonnement
 
@@ -88,6 +88,15 @@ Ja. Wir werden Beispieldatenpakete für SharePoint und OneDrive hinzufügen. Wir
 
 Nein. Diese Beispieldatenpakete sind nur mit dem im Rahmen des Office 365-Entwicklerprogramms bereitgestellten Office 365 Developer-Abonnement kompatibel.
 
-## <a name="see-also"></a>Weitere Artikel
+## <a name="how-can-i-see-the-sample-data-in-my-subscription"></a>Wie kann ich die Beispieldaten in meinem Abonnement anzeigen?
+
+Nachdem Sie das Beispieldatenpaket "Benutzer" installiert haben, um die hinzugefügten Benutzer anzuzeigen, wechseln Sie in Ihrem Office 365 Developer-Abonnement zum **Microsoft 365 Admin Center**. Wählen Sie unter **Benutzer** die Option **Aktive Benutzer** aus. Es wird eine Liste mit 16 Benutzern angezeigt. Sie können einen Benutzer auswählen, um die zugehörigen Metadaten anzuzeigen, z. B. Fotos und Lizenzen.
+
+![Screenshot von 16 Benutzern im Microsoft 365 Admin Center, mit Metadaten für einen ausgewählten Benutzer](images/content-packs-07.PNG)
+
+Wenn Sie nach dem Installieren des Beispielpakets "E-Mail und Ereignisse" die Beispieldaten anzeigen möchten, wählen Sie im **Microsoft 365 Admin Center** die Option **Alle anzeigen** und dann **Exchange** aus. Wenn Sie im Exchange Admin Center die Option **Empfänger** auswählen, können Sie sehen, dass jedem der 16 Benutzer Postfächer mit E-Mail-Nachrichten und Ereignissen hinzugefügt wurden.
+![Screenshot der 16 Benutzer, die zum Exchange Admin Center hinzugefügt wurden](images/content-packs-08.PNG)
+
+## <a name="see-also"></a>Siehe auch
 
 - [Richten Sie ein Office 365-Entwicklerabonnement ein](office-365-developer-program-get-started.md)
