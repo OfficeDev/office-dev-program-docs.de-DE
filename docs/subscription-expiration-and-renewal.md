@@ -3,12 +3,12 @@ title: Office 365-Entwicklerprogramm – Ablauf und Verlängerung des Abonnement
 description: Informationen zur Verlängerung eines ablaufenden Entwicklerabonnements.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 73a286f4a9b3cd4b85237aafcac0adf45e453e7d
-ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
+ms.openlocfilehash: d22afb89b1f7d1c537ab3153876d3f227b33f1e2
+ms.sourcegitcommit: dcd023e761e89104a588768d71fc966729280e24
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/28/2019
-ms.locfileid: "34491054"
+ms.lasthandoff: 07/29/2019
+ms.locfileid: "35922105"
 ---
 # <a name="office-365-developer-program-subscription-expiration-and-renewal"></a>Office 365-Entwicklerprogramm – Ablauf und Verlängerung des Abonnements
 
@@ -38,7 +38,7 @@ Außerdem müssen Sie alle wichtigen Daten, die Sie speichern müssen, in Ihr ne
 
 ## <a name="renewable-subscriptions"></a>Verlängerbare Abonnements
 
-Wenn Sie sich vor August 2018 für Ihr Abonnement registriert haben, haben Sie möglicherweise ein verlängerbares Abonnement. Wenn Ihr Abonnement inaktiv ist, wird die folgende Warnung auf Ihrem Dashbaord angezeigt. 
+Wenn Sie sich nach August 2018 für Ihr Abonnement registriert haben, haben Sie möglicherweise ein verlängerbares Abonnement. Wenn Ihr Abonnement inaktiv ist, wird die folgende Warnung auf Ihrem Dashbaord angezeigt. 
 
 <img alt="Screenshot of a text box with the title This subscription is inactive and expires soon" src="images/15-renewable-notice-yellow.png" width="500"> 
 
