@@ -3,12 +3,12 @@ title: Häufig gestellte Fragen zum Office 365-Entwicklerprogramm
 description: Häufig gestellte Fragen zum Office 365-Entwicklerprogramm.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 5b18c4e3632b8e498798e7238cbd7342c270eb8d
-ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
+ms.openlocfilehash: 8ac783772bd08bb4bcde6b775fc8c58b79595307
+ms.sourcegitcommit: e8d195d7e27198b13360c0de7435514c950e0bad
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/28/2019
-ms.locfileid: "34490976"
+ms.lasthandoff: 07/26/2019
+ms.locfileid: "35916892"
 ---
 # <a name="office-365-developer-program-faq"></a>Häufig gestellte Fragen zum Office 365-Entwicklerprogramm
 
@@ -67,18 +67,26 @@ Weitere Informationen dazu, welche Arten von Aktivitäten wir verfolgen, finden 
 Ihr Entwicklerabonnement umfasst Folgendes:
 
 - [Exchange Online (Plan 2)](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)
-- [Microsoft Flow für Office 365 Plan 2](https://flow.microsoft.com/pricing/)
+- [Microsoft Flow für Office 365](https://flow.microsoft.com/pricing/)
+- 
+  [Information Protection für Office 365 – Standard](https://products.office.com/de-DE/business/azure-information-protection-for-office-365)
 - [Microsoft Forms (Plan E5)](https://support.office.com/article/Frequently-asked-questions-about-Microsoft-Forms-495c4242-6102-40a0-add8-df05ed6af61c)
 - [Microsoft Planner](https://products.office.com/compare-all-microsoft-office-products?tab=2)
+- 
+  [Microsoft Search](https://products.office.com/de-DE/business/intelligent-search?tab=Discovery)
 - [Microsoft Stream für Office 365 E5 SKU](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Microsoft Teams](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Verwaltung mobiler Geräte in Office 365](https://support.office.com/article/Set-up-Mobile-Device-Management-MDM-in-Office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)
 - [Office 365 ProPlus](https://products.office.com/business/office-365-proplus-business-software)
-- [PowerApps für Office 365 Plan 2](https://powerapps.microsoft.com/pricing/)
+- 
+  [Office für das Web](https://docs.microsoft.com/de-DE/office365/servicedescriptions/office-online-service-description/office-online-service-description)
+- [PowerApps für Office 365](https://powerapps.microsoft.com/pricing/)
 - [SharePoint Online für Entwickler](https://products.office.com/SharePoint/compare-sharepoint-plans)
 - [Skype for Business Online Plan 2](https://products.office.com/skype-for-business/online-meeting-solutions)
 - [Sway](https://sway.com/)
 - [To-do (Plan 3)](https://todo.microsoft.com)
+- 
+  [Whiteboard (Plan 2)](https://products.office.com/de-DE/microsoft-whiteboard/digital-whiteboard-app)
 
 ## <a name="does-the-subscription-also-include-a-subscription-to-azure"></a>Umfasst das Abonnement auch ein Abonnement für Azure?
 
