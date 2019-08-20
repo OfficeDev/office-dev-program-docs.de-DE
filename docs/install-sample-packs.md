@@ -2,12 +2,12 @@
 title: Verwenden von Beispieldatenpaketen mit Ihrem Office 365 Developer-Abonnement
 description: Hier erfahren Sie, wie Sie Beispieldatenpakete in Ihrem Office 365 Developer-Abonnement für einen schnellen Einstieg in Ihre Sandboxumgebung installieren.
 localization_priority: Priority
-ms.openlocfilehash: 8c6c5c634080e951ca2e60d0d6236db1331d44ae
-ms.sourcegitcommit: 6b77e649d1be568a71b6ec572f9d0d2c7cea6f3e
+ms.openlocfilehash: 29bdd3cebeaf4a2f70d1482fe1c57480cd083756
+ms.sourcegitcommit: e8d857460e4fd5842bdfbd2a9d60f4fba55edcd0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35902347"
+ms.lasthandoff: 08/20/2019
+ms.locfileid: "36465108"
 ---
 # <a name="use-sample-data-packs-with-your-office-365-developer-subscription"></a>Verwenden von Beispieldatenpaketen mit Ihrem Office 365 Developer-Abonnement
 
@@ -15,7 +15,7 @@ Sie können Beispieldatenpakete unter Ihrem Office 365 Developer-Abonnement inst
 
 Beispieldatenpakete finden Sie im [Dashboard des Office 365-Entwicklerprogramms](https://developer.microsoft.com/office/profile) am unteren Rand der Kachel für Ihr Office 365-Abonnement.
 
-![Screenshot der Kachel für Ihr Abonnement auf der Dashboardseite](images/content-packs-06.PNG)
+![Screenshot der Kachel für Ihr Abonnement auf der Dashboardseite](images/sample-data-pack-ux-tile-users-beginning.PNG)
 
 Die folgenden Beispieldatenpakete sind zurzeit verfügbar:
 
@@ -43,7 +43,10 @@ Das Beispieldatenpaket "E-Mails und Ereignisse" fügt Outlook E-Mail-Unterhaltun
 
 ## <a name="how-do-i-install-the-users-sample-data-pack"></a>Wie installiere ich das Beispieldatenpaket "Benutzer"?
 
-Bevor Sie das Beispieldatenpaket "Benutzer" installieren, stellen Sie sicher, dass Sie über ein Office 365 Developer-Abonnement verfügen und dass Sie sich selbst eine Lizenz als Administrator zuweisen.
+Bevor Sie das Beispieldatenpaket "Benutzer" installieren, stellen Sie sicher, dass Sie über ein Office 365-Entwicklerabonnement verfügen, und weisen Sie sich selbst eine Administratorlizenz zu.
+
+> [!NOTE]
+> Stellen Sie sicher, dass in Ihrem Abonnement 16 Benutzer verfügbar sind. Ihr Abonnement umfasst 25 Benutzer. Wenn Sie bereits mehr als 10 Benutzer konfiguriert haben, entfernen Sie zuerst einige Benutzer, damit die Installation erfolgreich durchgeführt werden kann.
 
 So installieren Sie das Beispieldatenpaket "Benutzer":
 
@@ -52,19 +55,19 @@ So installieren Sie das Beispieldatenpaket "Benutzer":
 3. Geben Sie Ihre Administrator-ID und das Kennwort auf der Anmeldeseite ein.
 4. Stimmen Sie den Berechtigungen als Administrator Ihres Office 365 Developer-Abonnements zu.
 
-![Screenshot mit dem Dialogfeld zum Zustimmen zu den Berechtigungen](images/content-packs-01.png)
+![Screenshot mit dem Dialogfeld zum Zustimmen zu den Berechtigungen](images/sample-data-pack-ux-tile-users-consent-with-permissions-combined.PNG)
 
 5. Konfigurieren Sie die Kennwörter für alle Beispielbenutzer. Sie sollten ein gemeinsames Kennwort verwenden, um die Verwaltung ihrer Beispielbenutzer zu erleichtern.
 
-![Screenshot des Dialogfelds zum Hinzufügen eines gemeinsamen Benutzerkennworts](images/content-packs-02.png)
+![Screenshot des Dialogfelds zum Hinzufügen eines gemeinsamen Benutzerkennworts](images/sample-data-pack-ux-tile-users-fake-user-password-creation.PNG)
 
 6. Die Daten werden installiert. Die Installation dauert ca. fünf Minuten.
 
-![Screenshot des Installationsvorgangs auf der Dashboardkachel anzeigt](images/content-packs-03.PNG)
+![Screenshot des Installationsvorgangs auf der Dashboardkachel anzeigt](images/sample-data-pack-ux-tile-users-installing-status.PNG)
 
 7. Nach Abschluss der Installation werden Sie per E-Mail benachrichtigt, und das Feld auf der Kachel für Ihr Abonnement wird grün angezeigt. Jetzt können Sie das Beispieldatenpaket "E-Mails und Ereignisse" installieren.
 
-![Screenshot der Dashboardkachel, bereit zur Installation von "E-Mails und-Ereignisse"](images/content-packs-04.PNG)
+![Screenshot der Dashboardkachel, bereit zur Installation von "E-Mails und-Ereignisse"](images/sample-data-pack-ux-tile-users-installed.PNG)
 
 ## <a name="how-do-i-install-the-mail-and-events-sample-data-pack"></a>Wie installiere ich das Beispieldatenpaket "E-Mails und Ereignisse"?
 
@@ -73,7 +76,7 @@ Nachdem Sie das Beispieldatenpaket "Benutzer" installiert haben, können Sie "E-
 1. Wählen Sie auf der Kachel für Ihr Abonnement das Feld **E-Mails &amp; Ereignisse** aus.
 2. Wählen Sie **Installieren** aus, um mit der Installation zu beginnen.
 
-![Screenshot des Dialogfelds zum Installieren](images/content-packs-05.png)
+![Screenshot des Dialogfelds zum Installieren](images/sample-data-pack-ux-tile-mail-and-events-begin-install.PNG)
 
 > [!NOTE]
 > Wenn Sie Ihr Abonnement soeben erstellt haben, muss es vollständig bereitgestellt sein, bevor die Installation beginnen kann. Dies kann bis zu einigen Stunden dauern. Nach Beginn der Installation kann es bis zu 20 Minuten dauern, bis der Vorgang abgeschlossen ist.
