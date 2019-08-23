@@ -24,8 +24,7 @@ So können Sie Microsoft Teams einrichten und mit der Codierung beginnen
 2. Richten Sie Ihre Entwicklungsumgebung ein. Dieser Prozess variiert in Abhängigkeit vom Typ der App oder des Diensts, die bzw. den Sie erstellen. Einzelheiten hierzu finden Sie in einem der folgenden Themen:
 
   - [Erste Schritte mit der Microsoft Teams-Plattform mit Node.js](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-nodejs-app-studio)
-  - 
-  [Erste Schritte mit der Microsoft Teams-Plattform mit C#/.NET](https://docs.microsoft.com/de-DE/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
+  - [Erste Schritte mit der Microsoft Teams-Plattform mit C#/.NET](https://docs.microsoft.com/de-DE/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
 
 ## <a name="microsoft-graph"></a>Microsoft Graph
 
