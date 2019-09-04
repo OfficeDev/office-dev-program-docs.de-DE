@@ -3,12 +3,12 @@ title: Häufig gestellte Fragen zum Office 365-Entwicklerprogramm
 description: Häufig gestellte Fragen zum Office 365-Entwicklerprogramm.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 8ac783772bd08bb4bcde6b775fc8c58b79595307
-ms.sourcegitcommit: e8d195d7e27198b13360c0de7435514c950e0bad
+ms.openlocfilehash: 9747238ed915f0b122ac9bf924d0d850d0dd55ad
+ms.sourcegitcommit: a5c196fe86b0bcf5e0638084c197a0b857b4acc4
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/26/2019
-ms.locfileid: "35916892"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36713901"
 ---
 # <a name="office-365-developer-program-faq"></a>Häufig gestellte Fragen zum Office 365-Entwicklerprogramm
 
@@ -62,9 +62,10 @@ Ihre Aktivitäten im Office 365-Entwicklerprogramm und in Ihrem Office 365-Entwi
 
 Weitere Informationen dazu, welche Arten von Aktivitäten wir verfolgen, finden Sie unter [Office 365-Entwicklerabonnement – Nutzungsbedingungen](terms-and-conditions.md). 
 
-## <a name="whats-included-in-the-office-365-developer-subscription"></a>Was ist im Office 365-Entwicklerabonnement enthalten?
+## <a name="whats-included-in-the-developer-subscription"></a>Was ist im Entwicklerabonnement enthalten?
+Wenn Sie Ihr Abonnement nach dem 25. August 2019 abgeschlossen haben, verfügen Sie über ein Microsoft 365 E5-Entwicklerabonnement mit 25 Benutzerlizenzen. Kunden, die dem Programm vor dem 25. August 2019 beigetreten sind, haben ein Office 365 E3-Entwicklerabonnement mit 25 Benutzerlizenzen.
 
-Ihr Entwicklerabonnement umfasst Folgendes:
+Das Office 365 E3-Entwicklerabonnement umfasst Folgendes:
 
 - [Exchange Online (Plan 2)](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)
 - [Microsoft Flow für Office 365](https://flow.microsoft.com/pricing/)
@@ -83,6 +84,69 @@ Ihr Entwicklerabonnement umfasst Folgendes:
 - [Sway](https://sway.com/)
 - [To-do (Plan 3)](https://todo.microsoft.com)
 - [Whiteboard (Plan 2)](https://products.office.com/de-DE/microsoft-whiteboard/digital-whiteboard-app)
+
+Das Microsoft 365 E5-Entwicklerabonnement enthält alle Apps, die im Office 365 E3-Entwicklerabonnement enthalten sind, sowie die folgenden neuen Funktionen:  
+
+- Fortschrittliche Analysefunktionen mit Power BI  
+- Enterprise Mobility + Security (EMS) für Compliance und Informationsschutz  
+- Office 365 Advanced Threat Protection 
+- Azure Active Directory für den Aufbau erweiterter Identitäts-und Zugriffsverwaltungslösungen  
+
+Das Microsoft 365 E5-Entwicklerabonnement umfasst Folgendes: 
+
+- Azure Active Directory Premium P1 
+- Azure Active Directory Premium P2 
+-   Azure Advanced Threat Protection 
+-   Azure Information Protection Premium P1 
+-   Azure Information Protection Premium P2 
+-   Kunden-Lockbox 
+-   Exchange Online (Plan 2) 
+-   Microsoft Flow für Office 365 
+-   Information Protection für Office 365 – Premium 
+-   Information Protection für Office 365 – Standard 
+-   Microsoft Azure Active Directory-Rechte 
+-   Microsoft Azure Multi-Factor Authentication 
+-   Microsoft Cloud App Security 
+-   Microsoft Forms (Plan E5) 
+-   Microsoft Intune 
+-   Microsoft MyAnalytics (Vollversion) 
+-   Microsoft Planner 
+-   Microsoft StaffHub 
+-   Microsoft Stream für Office 365 E5 SKU 
+-   Microsoft Teams 
+-   Verwaltung mobiler Geräte für Office 365 
+-   Office 365 Advanced eDiscovery 
+-   Office 365 Advanced Security Management 
+-   Office 365 Advanced Threat Protection (Plan 1) 
+-   Office 365 Advanced Threat Protection (Plan 2) 
+-   Office 365 Privileged Access Management 
+-   Office 365 ProPlus 
+-   Office Online 
+-   Telefonsystem 
+-   Power BI Pro 
+-   PowerApps für Office 365 Plan 3 
+-   SharePoint Online (Plan 2) 
+-   Skype for Business Online (Plan 2) 
+-   Sway 
+-   To-Do (Plan 3) 
+-   Whiteboard (Plan 3) 
+-   Yammer Enterprise 
+
+## <a name="how-do-i-know-which-subscription-i-have"></a>Wie kann ich herausfinden, über welches Abonnement ich verfüge?
+
+Ob Sie über ein Microsoft 365 E5-Abonnement oder ein Office 365 E3-Abonnement verfügen, können Sie auf der Abonnementkachel auf Ihrem [Dashboard](https://developer.microsoft.com/office/profile) feststellen. Auf der Kachel wird unterhalb des Domänennamens des Abonnements entweder E3 oder E5 angezeigt.
+
+![Screenshot einer Abonnementkachel mit hervorgehobener Schrift E5.](images/subscription-tile-e5.png).
+
+## <a name="how-can-i-migrate-from-an-office-365-e3-subscription-to-a-microsoft-365-e5-subscription"></a>Wie kann ich von einem Office 365 E3-Abonnement zu einem Microsoft 365 E5-Abonnement migrieren?
+
+Aktuell erhalten nur neue Mitglieder des Office 365-Entwicklerprogamms automatisch ein Microsoft 365 E5-Entwicklerabonnement. Bestehenden Benutzern wird künftig eine Möglichkeit für die Migration zu einem Microsoft 365 E5-Entwicklerabonnement angeboten. Seien Sie versichert: Wir arbeiten daran, allen Mitglieder des Office 365-Entwicklerprogramms zu ermöglichen, zu Microsoft 365 E5 zu migrieren. 
+
+## <a name="can-i-choose-whether-to-have-an-office-365-e3-or-a-microsoft-365-e5-subscription"></a>Kann ich mich zwischen einem Office 365 E3- oder einem Microsoft 365 E5-Abonnement entscheiden?
+
+Derzeit wird nur neuen Mitgliedern des Entwicklerprogramms ein Microsoft 365 E5-Abonnement angeboten. Bei bestehenden Mitgliedern mit einem Office 365 E3-Abonnement besteht die Möglichkeit, das aktuelle Abonnement beizubehalten und es weiter zu verlängern, wenn die neuen Funktionen in Microsoft 365 E5 nicht benötigt werden. Mitglieder des Entwicklerprogramms können nur ein Abonnement haben.  
+
+Sobald eine Migrationsoption für bestehende Mitglieder des Entwicklerprogramms besteht, werden wir weitere Informationen zum Migrieren bereitstellen. 
 
 ## <a name="does-the-subscription-also-include-a-subscription-to-azure"></a>Umfasst das Abonnement auch ein Abonnement für Azure?
 

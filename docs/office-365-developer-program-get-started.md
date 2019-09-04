@@ -1,18 +1,20 @@
 ---
-title: Richten Sie ein Office 365-Entwicklerabonnement ein
+title: Einrichten eines Microsoft 365-Entwicklerabonnements
 description: Richten Sie ein Office 365-Entwicklerabonnement ein, um unabhängig von Ihrer Produktionsumgebung Lösungen zu entwickeln.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 32b32847b50c16c8b8f16b360318af1f18d8d69b
-ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
+ms.openlocfilehash: c66af5cd905d82d938ee6f2c2ffeb34cccaf3c45
+ms.sourcegitcommit: a5c196fe86b0bcf5e0638084c197a0b857b4acc4
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/28/2019
-ms.locfileid: "34490951"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36713891"
 ---
-# <a name="set-up-an-office-365-developer-subscription"></a>Richten Sie ein Office 365-Entwicklerabonnement ein 
+# <a name="set-up-a-microsoft-365-developer-subscription"></a>Einrichten eines Microsoft 365-Entwicklerabonnements 
 
-Richten Sie ein Office 365-Entwicklerabonnement ein, um unabhängig von Ihrer Produktionsumgebung Lösungen zu entwickeln. Das Abonnement ist ein Office 365 Enterprise E3 Developer-Abonnement mit 25 Benutzerlizenzen. Es gilt für 90 Tage und kann für Entwicklungszwecke (Codierung von Lösungen) kostenlos verwendet werden.
+Richten Sie ein Microsoft 365-Entwicklerabonnement ein, um unabhängig von Ihrer Produktionsumgebung Lösungen zu entwickeln. Das Abonnement ist ein Microsoft 365 E5-Entwicklerabonnement mit 25 Benutzerlizenzen. Es gilt für 90 Tage und kann ausschließlich für Entwicklungszwecke (Codierung von Lösungen) kostenlos verwendet werden. 
+
+Kunden, die dem Programm vor dem 25. August 2019 beigetreten sind, haben ein Office 365 E3-Entwicklerabonnement.
 
 > [!NOTE] 
 > Wenn Sie ein Abonnement einrichten möchten, müssen Sie zuerst [dem Office 365-Entwicklerprogramm beitreten](office-365-developer-program.md). Danach haben Sie die Möglichkeit, ein Abonnement einzurichten.
