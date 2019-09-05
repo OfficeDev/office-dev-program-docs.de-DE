@@ -3,12 +3,12 @@ title: Einrichten eines Microsoft 365-Entwicklerabonnements
 description: Richten Sie ein Office 365-Entwicklerabonnement ein, um unabhängig von Ihrer Produktionsumgebung Lösungen zu entwickeln.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: c66af5cd905d82d938ee6f2c2ffeb34cccaf3c45
-ms.sourcegitcommit: a5c196fe86b0bcf5e0638084c197a0b857b4acc4
+ms.openlocfilehash: 224fbae373f28250cb6673353edac19ed4ce0b64
+ms.sourcegitcommit: 9f3e21074fb96c7af93bad8bccbe24707c80c90a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36713891"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36717517"
 ---
 # <a name="set-up-a-microsoft-365-developer-subscription"></a>Einrichten eines Microsoft 365-Entwicklerabonnements 
 
@@ -21,9 +21,7 @@ Kunden, die dem Programm vor dem 25. August 2019 beigetreten sind, haben ein Off
 
 ## <a name="set-up-your-subscription"></a>Einrichten Ihres Abonnements
 
-1. Um ein Office 365-Entwicklerabonnement zu erhalten, wählen Sie auf Ihrer Profilseite unter **Sie benötigen ein Office 365-Abonnement für die Entwicklung?** die Option **Abonnement einrichten** aus.
-
-  ![Einrichten des Abonnements](images/4-set-up-subscription.png)
+1. Wenn Sie ein Office 365-Entwicklerabonnement abschließen möchten, wählen Sie auf Ihrer Profilseite**Abonnement einrichten** aus.
 
 2. Erstellen Sie im Dialogfeld **Einrichten Ihres Entwicklerabonnements** einen Benutzernamen und eine Domäne. Dieses Konto muss globale Administratorberechtigungen für das Abonnement besitzen. Sie können einen beliebigen Benutzer- und Domänennamen verwenden, sofern dieser nichts bereits verwendet wird. Verwenden Sie keine Leerzeichen.
 
@@ -42,14 +40,14 @@ Kunden, die dem Programm vor dem 25. August 2019 beigetreten sind, haben ein Off
 
 ## <a name="configure-the-subscription"></a>Konfigurieren des Abonnements
 
-1. Wählen Sie auf Ihrer Profilseite den Link[office.com](https://www.office.com/)aus, und melden Sie sich mit Ihrer Benutzer-ID (z. B. username@domain.onmicrosoft.com) und mit dem Kennwort an, das Sie für Ihr Entwicklerabonnement angegeben haben.
+1. Wählen Sie auf Ihrer Profilseite **Zum Abonnement wechseln** aus, und melden Sie sich mit Ihrer Benutzer-ID (z. B. username@domain.onmicrosoft.com) und dem Kennwort an, das Sie für Ihr Entwicklerabonnement angegeben haben.
 
    > [!NOTE] 
    > Melden Sie sich bei Ihrem Abonnement nicht mit Ihren Anmeldeinformationen für das Entwicklerprogramm an.
 
-2. Verwenden Sie das App-Startfeld, um zum [Admin Center](https://portal.office.com/adminportal/home#/homepage) zu wechseln.
+2. Verwenden Sie das App-Startfeld, um zum [Admin Center](https://admin.microsoft.com/AdminPortal/Home#/homepage) zu wechseln.
 
-3. Wählen Sie auf der Admin Center-Startseite die Option **Zu Setup wechseln** aus. Auf diese Weise gelangen Sie zur Seite **Office 365 Enterprise E3 Developer Setup**.
+3. Wählen Sie auf der Admin Center-Startseite die Option **Zu Setup wechseln** aus. Damit gelangen Sie zur Seite **Microsoft 365 E5-Entwickler-Setup**.
 
 4. **Personalisieren Sie Ihre Anmeldung und Ihre E-Mail**. Sie können Ihr Abonnement mit einer Domäne verbinden oder einfach die vorhandene Unterdomäne erstellen, die Sie erstellt haben. Wenn Sie bereit sind, wählen Sie **Weiter**.
 
