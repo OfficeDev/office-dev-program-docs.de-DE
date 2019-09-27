@@ -3,12 +3,12 @@ title: Treten Sie dem Office 365-Entwicklerprogramm bei.
 description: Treten Sie dem Office 365-Entwicklerprogramm bei, um unabhängig von Ihrer Produktionsumgebung Office 365-Lösungen zu entwickeln.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: a2c6c6436b915503463c30fb613c11949770b9b2
-ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
+ms.openlocfilehash: b8aeda4e17a526c8afffcbb8f055c3c937f74661
+ms.sourcegitcommit: a8fbf7863c2bc26a7467270c732e9d15d3cced2d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/28/2019
-ms.locfileid: "34491016"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37275458"
 ---
 # <a name="welcome-to-the-office-365-developer-program"></a>Willkommen beim Office 365-Entwicklerprogramm
 
@@ -18,7 +18,10 @@ ms.locfileid: "34491016"
 
 1. Rufen Sie die Seite [Treten Sie dem Office 365-Entwicklerprogramm bei](https://developer.microsoft.com/office/dev-program) auf. 
 
-2. Wählen Sie in der oberen rechten Ecke **Anmelden** aus, um sich mit Ihrem Microsoft-Konto oder Ihrem Azure Active Directory-fähigen E-Mail-Konto anzumelden. 
+2. Wählen Sie in der oberen rechten Ecke **Anmelden** aus, um sich mit Ihrem Microsoft-Konto oder Ihrem Azure Active Directory-fähigen E-Mail-Konto anzumelden.
+
+    > [!NOTE]
+    > Merken Sie sich das Konto, mit dem Sie sich anmelden. Mit diesem Konto melden Sie sich beim [Dashboard des Entwicklerprogramms](https://developer.microsoft.com/office/profile) an. Dieses Konto unterscheidet sich von der Admin-ID, die Sie für Ihr Microsoft 365-Entwicklerabonnement verwenden.
 
   <img alt="Join the Office 365 Developer Program Sign-in" src="images/0-sign-in-page.png" width="700">
 

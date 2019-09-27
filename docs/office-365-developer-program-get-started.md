@@ -3,12 +3,12 @@ title: Einrichten eines Microsoft 365-Entwicklerabonnements
 description: Richten Sie ein Office 365-Entwicklerabonnement ein, um unabhängig von Ihrer Produktionsumgebung Lösungen zu entwickeln.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 224fbae373f28250cb6673353edac19ed4ce0b64
-ms.sourcegitcommit: 9f3e21074fb96c7af93bad8bccbe24707c80c90a
+ms.openlocfilehash: eadab2c1274260c1b5697bcd3f0473d1469a78c2
+ms.sourcegitcommit: a8fbf7863c2bc26a7467270c732e9d15d3cced2d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36717517"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37275451"
 ---
 # <a name="set-up-a-microsoft-365-developer-subscription"></a>Einrichten eines Microsoft 365-Entwicklerabonnements 
 
@@ -43,15 +43,13 @@ Kunden, die dem Programm vor dem 25. August 2019 beigetreten sind, haben ein Off
 1. Wählen Sie auf Ihrer Profilseite **Zum Abonnement wechseln** aus, und melden Sie sich mit Ihrer Benutzer-ID (z. B. username@domain.onmicrosoft.com) und dem Kennwort an, das Sie für Ihr Entwicklerabonnement angegeben haben.
 
    > [!NOTE] 
-   > Melden Sie sich bei Ihrem Abonnement nicht mit Ihren Anmeldeinformationen für das Entwicklerprogramm an.
+   > Melden Sie sich bei Ihrem Abonnement nicht mit Ihrer Konto-ID für das Entwicklerprogramm an.
 
 2. Verwenden Sie das App-Startfeld, um zum [Admin Center](https://admin.microsoft.com/AdminPortal/Home#/homepage) zu wechseln.
 
 3. Wählen Sie auf der Admin Center-Startseite die Option **Zu Setup wechseln** aus. Damit gelangen Sie zur Seite **Microsoft 365 E5-Entwickler-Setup**.
 
 4. **Personalisieren Sie Ihre Anmeldung und Ihre E-Mail**. Sie können Ihr Abonnement mit einer Domäne verbinden oder einfach die vorhandene Unterdomäne erstellen, die Sie erstellt haben. Wenn Sie bereit sind, wählen Sie **Weiter**.
-
-  ![Personalisieren der Anmeldungs- und E-Mail-Seite.](images/8a-set-up-personalize.png)
 
 5. **Fügen Sie neue Benutzer hinzu**. Sie können Benutzer hinzufügen. Dies können fiktive oder reale Benutzer sein, die Ihnen bei der Entwicklung helfen. Wenn Sie bereit sind, wählen Sie **Weiter**.
     
@@ -63,8 +61,6 @@ Kunden, die dem Programm vor dem 25. August 2019 beigetreten sind, haben ein Off
 7. **Freigeben von Anmeldeinformationen**. Sie müssen ihre Anmeldeinformationen für alle realen Benutzer freigeben, die auf das Abonnement zugreifen. Sie können eine Methode auswählen, z. B. E-Mail, Download oder Drucken. Wenn Sie bereit sind, wählen Sie **Weiter**.
 
 8. **Installieren Ihrer Office-Apps**. Sie haben die Möglichkeit, Office-Apps auf Ihrem Computer zu installieren. Wenn Sie bereit sind, wählen Sie **Weiter**.
-
-  ![Installieren von Office-Apps](images/11-install-office-apps.png)
 
    > [!TIP] 
    > Bei nachfolgenden Besuchen des Dashboards melden Sie sich mit dem Konto *username@domain*.onmicrosoft.com an, bevor Sie zum Dashboard wechseln.
