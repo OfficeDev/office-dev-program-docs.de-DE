@@ -24,13 +24,13 @@ So können Sie Microsoft Teams einrichten und mit der Codierung beginnen
 2. Richten Sie Ihre Entwicklungsumgebung ein. Dieser Prozess variiert in Abhängigkeit vom Typ der App oder des Diensts, die bzw. den Sie erstellen. Einzelheiten hierzu finden Sie in einem der folgenden Themen:
 
   - [Erste Schritte mit der Microsoft Teams-Plattform mit Node.js](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-nodejs-app-studio)
-  - [Erste Schritte mit der Microsoft Teams-Plattform mit C#/.NET](https://docs.microsoft.com/de-DE/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
+  - [Erste Schritte mit der Microsoft Teams-Plattform mit C#/.NET](https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
 
 ## <a name="microsoft-graph"></a>Microsoft Graph
 
 Sie können Microsoft Graph für die Interaktion mit den Daten von Millionen von Benutzern in der Microsoft-Cloud verwenden. Verwenden Sie Microsoft Graph zum Erstellen von Apps für Organisationen und Heimanwender, die über einen einzelnen Endpunkt Zugriff auf eine Vielzahl von Ressourcen, Beziehungen und Daten haben möchten: `https://graph.microsoft.com`.
 
-Informationen zum Einrichten von und zum Codieren mit Microsoft Graph finden Sie unter [Erste Schritte zum Entwickeln von Microsoft Graph-Apps](https://developer.microsoft.com/de-DE/graph/get-started) oder im [Schnellstart](https://developer.microsoft.com/de-DE/graph/quick-start) für Microsoft Graph.
+Informationen zum Einrichten von und zum Codieren mit Microsoft Graph finden Sie unter [Erste Schritte zum Entwickeln von Microsoft Graph-Apps](https://developer.microsoft.com/en-us/graph/get-started) oder im [Schnellstart](https://developer.microsoft.com/en-us/graph/quick-start) für Microsoft Graph.
 
 ## <a name="office-add-ins"></a>Office-Add-Ins
 
