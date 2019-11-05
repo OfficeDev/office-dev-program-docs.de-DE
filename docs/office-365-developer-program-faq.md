@@ -3,12 +3,12 @@ title: Häufig gestellte Fragen zum Office 365-Entwicklerprogramm
 description: Häufig gestellte Fragen zum Office 365-Entwicklerprogramm.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: acf847e4d6c7f06058b78383ab4e425cee3745d6
-ms.sourcegitcommit: a8fbf7863c2bc26a7467270c732e9d15d3cced2d
+ms.openlocfilehash: db2fc80d496238d090b4528e26f6afda7ccc2696
+ms.sourcegitcommit: 039e897679aa937a27a34b13ce94deffcaca5228
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "37275444"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37962240"
 ---
 # <a name="office-365-developer-program-faq"></a>Häufig gestellte Fragen zum Office 365-Entwicklerprogramm
 
@@ -187,7 +187,7 @@ Ja, Sie können die [folgenden Anweisungen](office-365-developer-program.md) bef
 
 ## <a name="as-a-full-time-microsoft-employee-can-i-receive-a-subscription"></a>Kann ich als Vollzeitmitarbeiter von Microsoft ein Abonnement erhalten?
 
-Microsoft-Mitarbeiter können sich nicht für dieses Angebot registrieren. Allerdings haben alle Vollzeitmitarbeiter von Microsoft Zugriff auf ein kostenloses Visual Studio (MSDN)-Abonnement, das Zugriff auf Office E3 Developer umfasst. Sie können unter [Visual Studio | Meine Angebote](https://my.visualstudio.com/benefits) auf dieses Angebot zugreifen.
+Microsoft-Mitarbeiter können sich nicht für dieses Angebot registrieren. Alle Vollzeitmitarbeiter von Microsoft haben Zugriff auf ein kostenloses Visual Studio (MSDN)-Abonnement, das Zugriff auf ein Microsoft 365 E5-Entwicklerabonnement umfasst. Sie können unter [Visual Studio | Meine Angebote](https://my.visualstudio.com/benefits) auf dieses Angebot zugreifen.
 
 ## <a name="as-a-vendor-working-at-microsoft-do-i-qualify-for-a-subscription"></a>Komme ich als Anbieter bei Microsoft für ein Abonnement in Frage?
 

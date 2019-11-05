@@ -3,12 +3,12 @@ title: Treten Sie dem Office 365-Entwicklerprogramm bei.
 description: Treten Sie dem Office 365-Entwicklerprogramm bei, um unabhängig von Ihrer Produktionsumgebung Office 365-Lösungen zu entwickeln.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: b8aeda4e17a526c8afffcbb8f055c3c937f74661
-ms.sourcegitcommit: a8fbf7863c2bc26a7467270c732e9d15d3cced2d
+ms.openlocfilehash: d4e049609b8c943d4aa4d5eca12f1b003d2ee8bb
+ms.sourcegitcommit: 039e897679aa937a27a34b13ce94deffcaca5228
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "37275458"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37962233"
 ---
 # <a name="welcome-to-the-office-365-developer-program"></a>Willkommen beim Office 365-Entwicklerprogramm
 
