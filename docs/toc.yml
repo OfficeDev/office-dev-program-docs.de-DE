@@ -1,12 +1,14 @@
-- name: Office 365 Entwicklerprogramm
-  href: office-365-developer-program.md
+- name: Microsoft 365-Entwicklerprogramm
+  href: microsoft-365-developer-program.md
 - name: Einrichten eines Entwickler Abonnements
-  href: office-365-developer-program-get-started.md
+  href: microsoft-365-developer-program-get-started.md
 - name: Erstellen von Lösungen
-  href: build-office-365-solutions.md
+  href: build-microsoft-365-solutions.md
 - name: Verwenden von Beispiel-Datenpaketen
   href: install-sample-packs.md
 - name: Abonnementablauf und-Verlängerung
   href: subscription-expiration-and-renewal.md
 - name: FAQ zum Entwicklerprogramm
-  href: office-365-developer-program-faq.md
+  href: microsoft-365-developer-program-faq.md
+- name: Geschäftsbedingungen
+  href: terms-and-conditions.md
