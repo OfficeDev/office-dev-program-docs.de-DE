@@ -1,19 +1,19 @@
 ---
-title: Verwenden von Beispieldatenpaketen mit Ihrem Office 365 Developer-Abonnement
-description: Hier erfahren Sie, wie Sie Beispieldatenpakete in Ihrem Office 365 Developer-Abonnement für einen schnellen Einstieg in Ihre Sandboxumgebung installieren.
+title: Verwenden von Beispieldatenpaketen mit Ihrem Abonnement für das Microsoft 365-Entwicklerprogramm
+description: Hier erfahren Sie, wie Sie Beispieldatenpakete in Ihrem Entwicklerabonnement für einen schnellen Einstieg in Ihre Sandboxumgebung installieren.
 localization_priority: Priority
-ms.openlocfilehash: 29bdd3cebeaf4a2f70d1482fe1c57480cd083756
-ms.sourcegitcommit: e8d857460e4fd5842bdfbd2a9d60f4fba55edcd0
+ms.openlocfilehash: 2cc7027ccad5b7971c1ae9d49416b9b25663c255
+ms.sourcegitcommit: 9c7a1aa1c562adb350fefc8068e154fa6f9a4ee3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/20/2019
-ms.locfileid: "36465108"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600802"
 ---
-# <a name="use-sample-data-packs-with-your-office-365-developer-subscription"></a>Verwenden von Beispieldatenpaketen mit Ihrem Office 365 Developer-Abonnement
+# <a name="use-sample-data-packs-with-your-microsoft-365-developer-program-subscription"></a>Verwenden von Beispieldatenpaketen mit Ihrem Abonnement für das Microsoft 365-Entwicklerprogramm
 
-Sie können Beispieldatenpakete unter Ihrem Office 365 Developer-Abonnement installieren. Mit Beispieldatenpaketen sparen Sie Zeit, indem automatisch Daten und Inhalte installiert werden, die Sie zum Erstellen und Testen Ihrer Lösungen benötigen. Dies umfasst Beispielbenutzer, Metadaten und Fotos, um eine kleine Unternehmensumgebung zu simulieren. Die Beispieldaten lassen sich schnell installieren, sodass Sie sich auf ihre Lösungen konzentrieren können, statt Zeit für die Erstellung von Beispieldaten aufzuwenden.
+Sie können Beispieldatenpakete in Ihrem Abonnement für das Microsoft 365-Entwicklerprogramm installieren. Mit Beispieldatenpaketen sparen Sie Zeit, indem automatisch Daten und Inhalte installiert werden, die Sie zum Erstellen und Testen Ihrer Lösungen benötigen. Dies umfasst Beispielbenutzer, Metadaten und Fotos, um eine kleine Unternehmensumgebung zu simulieren. Die Beispieldaten lassen sich schnell installieren, sodass Sie sich auf ihre Lösungen konzentrieren können, statt Zeit für die Erstellung von Beispieldaten aufzuwenden.
 
-Beispieldatenpakete finden Sie im [Dashboard des Office 365-Entwicklerprogramms](https://developer.microsoft.com/office/profile) am unteren Rand der Kachel für Ihr Office 365-Abonnement.
+Beispieldatenpakete finden Sie im [Dashboard des Microsoft 365-Entwicklerprogramms](https://developer.microsoft.com/office/profile) am unteren Rand der Kachel für Ihr Abonnement.
 
 ![Screenshot der Kachel für Ihr Abonnement auf der Dashboardseite](images/sample-data-pack-ux-tile-users-beginning.PNG)
 
@@ -35,7 +35,7 @@ Die folgenden Beispieldatenpakete sind zurzeit verfügbar:
 > [!NOTE]
 > Sie müssen das Beispieldatenpaket "Benutzer" installieren, bevor Sie "E-Mails und Ereignisse" installieren.
 
-## <a name="what-do-the-sample-data-packs-add-to-my-office-365-subscription"></a>Welche Elemente werden durch die Beispieldatenpakete zu meinem Office 365-Abonnement hinzugefügt?
+## <a name="what-do-the-sample-data-packs-add-to-my-subscription"></a>Welche Elemente werden durch die Beispieldatenpakete zu meinem Abonnement hinzugefügt?
 
 Das Beispieldatenpaket "Benutzer" erstellt in Ihrem Abonnement 16 Beispielbenutzer, einschließlich der Lizenzen sowie Postfächer, Namen, Metadaten und Fotos für jeden Benutzer.
 
@@ -43,7 +43,7 @@ Das Beispieldatenpaket "E-Mails und Ereignisse" fügt Outlook E-Mail-Unterhaltun
 
 ## <a name="how-do-i-install-the-users-sample-data-pack"></a>Wie installiere ich das Beispieldatenpaket "Benutzer"?
 
-Bevor Sie das Beispieldatenpaket "Benutzer" installieren, stellen Sie sicher, dass Sie über ein Office 365-Entwicklerabonnement verfügen, und weisen Sie sich selbst eine Administratorlizenz zu.
+Bevor Sie das Beispieldatenpaket "Benutzer" installieren, stellen Sie sicher, dass Sie über ein Microsoft 365 Developer-Abonnement verfügen, und weisen Sie sich selbst eine Administratorlizenz zu.
 
 > [!NOTE]
 > Stellen Sie sicher, dass in Ihrem Abonnement 16 Benutzer verfügbar sind. Ihr Abonnement umfasst 25 Benutzer. Wenn Sie bereits mehr als 10 Benutzer konfiguriert haben, entfernen Sie zuerst einige Benutzer, damit die Installation erfolgreich durchgeführt werden kann.
@@ -53,7 +53,7 @@ So installieren Sie das Beispieldatenpaket "Benutzer":
 1. Aktivieren Sie am unteren Rand der Kachel für Ihr Abonnement das Kontrollkästchen **Benutzer**.
 2. Kopieren Sie Ihre Administrator-ID. Sie benötigen diese, um sich bei Ihrem Abonnement anzumelden.
 3. Geben Sie Ihre Administrator-ID und das Kennwort auf der Anmeldeseite ein.
-4. Stimmen Sie den Berechtigungen als Administrator Ihres Office 365 Developer-Abonnements zu.
+4. Stimmen Sie den Berechtigungen als Administrator Ihres Microsoft 365 Developer-Abonnements zu.
 
 ![Screenshot mit dem Dialogfeld zum Zustimmen zu den Berechtigungen](images/sample-data-pack-ux-tile-users-consent-with-permissions-combined.PNG)
 
@@ -87,19 +87,19 @@ Nachdem Sie das Beispieldatenpaket "Benutzer" installiert haben, können Sie "E-
 
 Ja. Wir werden Beispieldatenpakete für SharePoint und OneDrive hinzufügen. Wir erwägen, in Zukunft Beispieldatenpakete für weitere Produkte und Technologien hinzuzufügen, z. B. Office-Add-Ins, Microsoft Teams und vieles mehr.
 
-## <a name="can-i-install-sample-data-packs-on-my-other-office-365-subscriptions"></a>Kann ich Beispieldatenpakete unter meinen anderen Office 365-Abonnements installieren?
+## <a name="can-i-install-sample-data-packs-on-my-other-microsoft-365-subscriptions"></a>Kann ich Beispieldatenpakete unter meinen anderen Microsoft 365-Abonnements installieren?
 
-Nein. Diese Beispieldatenpakete sind nur mit dem im Rahmen des Office 365-Entwicklerprogramms bereitgestellten Office 365 Developer-Abonnement kompatibel.
+Nein. Diese Beispieldatenpakete sind nur mit dem im Rahmen des Microsoft 365-Entwicklerprogramms bereitgestellten Microsoft 365 Developer-Abonnement kompatibel.
 
 ## <a name="how-can-i-see-the-sample-data-in-my-subscription"></a>Wie kann ich die Beispieldaten in meinem Abonnement anzeigen?
 
-Nachdem Sie das Beispieldatenpaket "Benutzer" installiert haben, um die hinzugefügten Benutzer anzuzeigen, wechseln Sie in Ihrem Office 365 Developer-Abonnement zum **Microsoft 365 Admin Center**. Wählen Sie unter **Benutzer** die Option **Aktive Benutzer** aus. Es wird eine Liste mit 16 Benutzern angezeigt. Sie können einen Benutzer auswählen, um die zugehörigen Metadaten anzuzeigen, z. B. Fotos und Lizenzen.
+Nachdem Sie das Beispieldatenpaket "Benutzer" installiert haben, um die hinzugefügten Benutzer anzuzeigen, wechseln Sie in Ihrem Microsoft 365 Developer-Abonnement zum **Microsoft 365 Admin Center**. Wählen Sie unter **Benutzer** die Option **Aktive Benutzer** aus. Es wird eine Liste mit 16 Benutzern angezeigt. Sie können einen Benutzer auswählen, um die zugehörigen Metadaten anzuzeigen, z. B. Fotos und Lizenzen.
 
 ![Screenshot von 16 Benutzern im Microsoft 365 Admin Center, mit Metadaten für einen ausgewählten Benutzer](images/content-packs-07.PNG)
 
 Wenn Sie nach dem Installieren des Beispielpakets "E-Mail und Ereignisse" die Beispieldaten anzeigen möchten, wählen Sie im **Microsoft 365 Admin Center** die Option **Alle anzeigen** und dann **Exchange** aus. Wenn Sie im Exchange Admin Center die Option **Empfänger** auswählen, können Sie sehen, dass jedem der 16 Benutzer Postfächer mit E-Mail-Nachrichten und Ereignissen hinzugefügt wurden.
 ![Screenshot der 16 Benutzer, die zum Exchange Admin Center hinzugefügt wurden](images/content-packs-08.PNG)
 
-## <a name="see-also"></a>Siehe auch
+## <a name="see-also"></a>Weitere Artikel
 
-- [Richten Sie ein Office 365-Entwicklerabonnement ein](office-365-developer-program-get-started.md)
+- [Einrichten eines Microsoft 365 Developer-Abonnements](microsoft-365-developer-program-get-started.md)
