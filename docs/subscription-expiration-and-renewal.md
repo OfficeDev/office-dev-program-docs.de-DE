@@ -1,26 +1,26 @@
 ---
-title: Office 365-Entwicklerprogramm – Ablauf und Verlängerung des Abonnements
+title: Microsoft 365-Entwicklerprogramm – Ablauf und Verlängerung des Abonnements
 description: Informationen zur Verlängerung eines ablaufenden Entwicklerabonnements.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: f0be068369de8456bea86094139292a723938e31
-ms.sourcegitcommit: 2bc24a4f9dabc39b293698342ce0bf85bd117cdf
+ms.openlocfilehash: 0aa7907a7a2dbf1e1dec4fe5bf7192d8c4b23a54
+ms.sourcegitcommit: 9c7a1aa1c562adb350fefc8068e154fa6f9a4ee3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36747117"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600795"
 ---
-# <a name="office-365-developer-program-subscription-expiration-and-renewal"></a>Office 365-Entwicklerprogramm – Ablauf und Verlängerung des Abonnements
+# <a name="microsoft-365-developer-program-subscription-expiration-and-renewal"></a>Microsoft 365-Entwicklerprogramm – Ablauf und Verlängerung des Abonnements
 
-Ihre Mitgliedschaft im Office 365-Entwicklerprogramm beinhaltet ein kostenloses Office 365-Entwicklerabonnement. Ihr Entwicklerabonnement ist je nach Entwicklungsaktivität verlängerbar; einige ältere Abonnements laufen jedoch aus. Dieser Artikel beschreibt den Unterschied zwischen verlängerbaren und nicht verlängerbaren Abonnements und wie Sie Ihr Abonnement aktualisieren können, wenn es abläuft.
+Ihre Mitgliedschaft im Microsoft 365-Entwicklerprogramm beinhaltet ein kostenloses Office 365 E3-oder Microsoft 365 E5-Entwicklerabonnement. Ihr Entwicklerabonnement ist je nach Entwicklungsaktivität verlängerbar; einige ältere Abonnements laufen jedoch aus. Dieser Artikel beschreibt den Unterschied zwischen verlängerbaren und nicht verlängerbaren Abonnements und wie Sie Ihr Abonnement aktualisieren können, wenn es abläuft.
 
 ## <a name="expiring-vs-renewable-developer-subscriptions"></a>Ablaufende im Vergleich zu verlängerbaren Entwicklerabonnements
 
-Mit dem Start des Office 365-Entwicklerprogramms haben wir 12-monatige Entwicklerabonnements angeboten, die ablaufen und nicht verlängert werden können. Im August 2018 haben wir damit begonnen, einigen Mitgliedern des Entwicklerprogramms verlängerbare Abonnements anzubieten.
+Mit dem Start des Microsoft 365-Entwicklerprogramms haben wir 12-monatige Entwicklerabonnements angeboten, die ablaufen und nicht verlängert werden können. Im August 2018 haben wir damit begonnen, einigen Mitgliedern des Entwicklerprogramms verlängerbare Abonnements anzubieten.
 
 Ab April 2019 bieten wir verlängerbare 90-Tage-Abonnements an.
 
-Sie können feststellen, ob Sie ein verlängerbares oder nicht verlängerbares Abonnement haben, indem Sie Ihr[Dashboard des Office 365-Entwicklerprogramms](https://developer.microsoft.com/de-DE/office/profile) anzeigen.
+Sie können feststellen, ob Sie ein verlängerbares oder nicht verlängerbares Abonnement haben, indem Sie Ihr[Dashboard des Microsoft 365-Entwicklerprogramms](https://aka.ms/DevProgramDashboard) anzeigen.
 
 ## <a name="non-renewable-subscriptions"></a>Nicht verlängerbare Abonnements
 
@@ -38,7 +38,7 @@ Außerdem müssen Sie alle wichtigen Daten, die Sie speichern müssen, in Ihr ne
 
 ## <a name="renewable-subscriptions"></a>Verlängerbare Abonnements
 
-Wenn Sie sich nach August 2018 für Ihr Abonnement registriert haben, haben Sie möglicherweise ein verlängerbares Abonnement. Wenn Ihr Abonnement inaktiv ist, wird die folgende Warnung auf Ihrem Dashbaord angezeigt. 
+Wenn Sie sich nach August 2018 für Ihr Abonnement registriert haben, haben Sie möglicherweise ein verlängerbares Abonnement. Wenn Ihr Abonnement inaktiv ist, wird die folgende Warnung auf Ihrem Dashboard angezeigt. 
 
 <img alt="Screenshot of a text box with the title This subscription is inactive and expires soon" src="images/15-renewable-notice-yellow.png" width="500"> 
 
@@ -58,9 +58,9 @@ Wir haben im August 2018 verlängerbare Abonnements eingeführt. Wenn Sie sich v
 
 Informationen zur Migration Ihrer Daten von Ihrem aktuellen Abonnement zu einem neuen Abonnement finden Sie in den folgenden Ressourcen:
 
-- [Migrieren von Postfächern von einem Office 365-Mandanten zu einem anderen](https://docs.microsoft.com/exchange/mailbox-migration/migrate-mailboxes-across-tenants)
-- [Verwenden von PowerShell zum Ausführen einer mehrstufigen Migration zu Office 365](https://docs.microsoft.com/office365/enterprise/powershell/use-powershell-to-perform-a-staged-migration-to-office-365)
-- [Migration von einem Office 365-Abonnement zu einem anderen Abonnement ohne Drittanbieter](https://social.technet.microsoft.com/Forums/en-US/ee507441-eb91-4b0a-ba6c-5bd9bb8c71b1/migration-from-one-o365-tenant-to-another-o365-without-third-party?forum=onlineservicesmigrationandcoexistence)
+- [Migrieren von Postfächern von einem Mandanten zu einem anderen](https://docs.microsoft.com/exchange/mailbox-migration/migrate-mailboxes-across-tenants)
+- [Verwenden von PowerShell zum Ausführen einer mehrstufigen Migration](https://docs.microsoft.com/office365/enterprise/powershell/use-powershell-to-perform-a-staged-migration-to-office-365)
+- [Migration von einem Abonnement zu einem anderen Abonnement ohne Drittanbieter](https://social.technet.microsoft.com/Forums/en-US/ee507441-eb91-4b0a-ba6c-5bd9bb8c71b1/migration-from-one-o365-tenant-to-another-o365-without-third-party?forum=onlineservicesmigrationandcoexistence)
 
 ## <a name="how-do-i-know-if-my-subscription-was-deleted"></a>Wie erfahre ich, ob mein Abonnement gelöscht wurde?
 
@@ -68,12 +68,12 @@ Wenn Ihr Abonnement gelöscht wird, zeigt Ihr Dashboard eine Benachrichtigung an
 
 <img alt="Screenshot of a text box with the title Deleted subscription" src="images/17-deleted-subscription.png" width="500"> 
 
-## <a name="see-also"></a>Siehe auch
+## <a name="see-also"></a>Weitere Artikel
 
-- [Treten Sie dem Office 365-Entwicklerprogramm bei](office-365-developer-program.md)
-- [Richten Sie ein Office 365-Entwicklerabonnement ein](office-365-developer-program-get-started.md)
-- [Verwenden Ihres Entwicklerabonnements zum Erstellen von Office 365-Lösungen](build-office-365-solutions.md)
-- [Häufig gestellte Fragen zum Office 365-Entwicklerprogramm](office-365-developer-program-faq.md)
+- [Teilnehmen am Microsoft 365-Entwicklerprogramm](microsoft-365-developer-program.md)
+- [Einrichten eines Microsoft 365 Developer-Abonnements](microsoft-365-developer-program-get-started.md)
+- [Verwenden Ihres Abonnements zum Erstellen von Microsoft 365-Lösungen](build-microsoft-365-solutions.md)
+- [Häufig gestellte Fragen zum Microsoft 365-Entwicklerprogramm](microsoft-365-developer-program-faq.md)
 
 
 
