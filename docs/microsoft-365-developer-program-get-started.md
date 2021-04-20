@@ -1,27 +1,25 @@
 ---
-title: Einrichten eines Microsoft 365-Entwicklerabonnements
-description: Richten Sie ein Microsoft 365 Developer-Abonnement ein, um unabhängig von Ihrer Produktionsumgebung Lösungen zu entwickeln.
+title: Einrichten eines Microsoft 365-Entwickler-Sandboxabonnements
+description: Richten Sie ein Microsoft 365-Entwicklerabonnement ein, um unabhängig von Ihrer Produktionsumgebung Lösungen zu entwickeln.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 4aa500e0688c43186d574e94e3f94081a87b89e4
-ms.sourcegitcommit: 9c7a1aa1c562adb350fefc8068e154fa6f9a4ee3
+ms.openlocfilehash: 49bfba3133351dfc67b6686250fb9152fc8d9688
+ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42601296"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "51890182"
 ---
-# <a name="set-up-a-microsoft-365-developer-subscription"></a>Einrichten eines Microsoft 365-Entwicklerabonnements 
+# <a name="set-up-a-microsoft-365-developer-sandbox-subscription"></a>Einrichten eines Microsoft 365-Entwickler-Sandboxabonnements 
 
 Richten Sie ein Microsoft 365-Entwicklerabonnement ein, um unabhängig von Ihrer Produktionsumgebung Lösungen zu entwickeln. Das Abonnement ist ein Microsoft 365 E5-Entwicklerabonnement mit 25 Benutzerlizenzen. Es gilt für 90 Tage und kann ausschließlich für Entwicklungszwecke (Codierung von Lösungen) kostenlos verwendet werden. 
 
-Kunden, die dem Programm vor dem 25. August 2019 beigetreten sind, haben ein Office 365 E3-Entwicklerabonnement.
-
 > [!NOTE] 
-> Wenn Sie ein Abonnement einrichten möchten, müssen Sie zuerst [dem Microsoft 365-Entwicklerprogramm beitreten](microsoft-365-developer-program.md). Danach haben Sie die Möglichkeit, ein Abonnement einzurichten.
+> Zum Einrichten eines Abonnements müssen Sie zuerst direkt oder über Visual Studio Professional oder Enterprise (wenn Sie Abonnent sind) [am Microsoft 365-Entwicklerprogramm teilnehmen](microsoft-365-developer-program.md). Danach haben Sie die Möglichkeit, ein Abonnement einzurichten.
 
-## <a name="set-up-your-subscription"></a>Einrichten Ihres Abonnements
+## <a name="set-up-your-microsoft-365-e5-sandbox-subscription"></a>Einrichten Ihres Microsoft 365 E5-Sandboxabonnements
 
-1. Wenn Sie ein Microsoft 365 Developer-Abonnement abschließen möchten, wählen Sie auf Ihrer Profilseite**Abonnement einrichten** aus.
+1. Wenn Sie ein Microsoft 365 Developer-Abonnement abschließen möchten, wählen Sie auf Ihrer Profilseite **Abonnement einrichten** aus.
 
 2. Erstellen Sie im Dialogfeld **Einrichten Ihres Entwicklerabonnements** einen Benutzernamen und eine Domäne. Dieses Konto muss globale Administratorberechtigungen für das Abonnement besitzen. Sie können einen beliebigen Benutzer- und Domänennamen verwenden, sofern dieser nichts bereits verwendet wird. Verwenden Sie keine Leerzeichen.
 
