@@ -1,17 +1,19 @@
 ---
-title: Teilnehmen am Microsoft 365-Entwicklerprogramm
+title: Willkommen beim Microsoft 365-Entwicklerprogramm
 description: Treten Sie dem Microsoft 365-Entwicklerprogramm bei, um unabhängig von Ihrer Produktionsumgebung Microsoft 365-Lösungen zu entwickeln.
 localization_priority: Priority
-ms.openlocfilehash: f058f69ea726f948e1aa30232fe611d7f459a2f4
-ms.sourcegitcommit: 9c7a1aa1c562adb350fefc8068e154fa6f9a4ee3
+ms.openlocfilehash: 31414ea3b88e711f81ba8a5d879e6e666ecbaa3b
+ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42601295"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "51890158"
 ---
 # <a name="welcome-to-the-microsoft-365-developer-program"></a>Willkommen beim Microsoft 365-Entwicklerprogramm
 
-Überzeugen Sie Ihre Freunde und Kollegen vom Microsoft 365-Entwicklerprogramm. Verwenden Sie das Microsoft 365 Developer-Abonnement, um unabhängig von Ihrer Produktionsumgebung Lösungen zu entwickeln. Sie können Lösungen für Microsoft Teams, Office-Add-Ins, Microsoft Graph, SharePoint-Framework, SharePoint-Add-Ins und vieles mehr erstellen.
+Das Microsoft 365-Entwicklerprogramm umfasst ein Microsoft 365 E5-Entwicklerabonnement, mit dem Sie einen eigenen Sandkasten erstellen und Lösungen unabhängig von Ihrer Produktionsumgebung entwickeln können. Sie können Microsoft Teams-Apps, Office-Add-Ins für Word, Excel, PowerPoint oder Outlook oder SharePoint-Add-Ins mit Microsoft Graph, dem SharePoint-Framework, Power Apps und mehr erstellen.
+
+Verfügen Sie über ein Visual Studio Pro- oder Enterprise-Abonnement? In diesem Fall können Sie zusätzliche Vorteile nutzen, wenn Sie dem Programm beitreten. Details hierzu finden Sie unter [Beitreten mit Visual Studio](join-with-visual-studio.md).
 
 ## <a name="join-the-microsoft-365-developer-program"></a>Teilnehmen am Microsoft 365-Entwicklerprogramm
 
@@ -36,13 +38,13 @@ ms.locfileid: "42601295"
 
 7. Wählen Sie **Weiter** aus.
 
-8. Teilen Sie uns auf der Seite **Einstellungen für das Microsoft 365-Entwicklerprogramm** Ihre Wünschen mit, damit wir Ihre Erfahrung personalisieren können, z. B.:
+8. Teilen Sie uns auf der Seite **Einstellungen für das Microsoft 365-Entwicklerprogramm** Ihre Präferenzen mit, damit wir Ihre Erfahrung personalisieren können, z. B.:
 
     - Die Branche, in der Sie arbeiten.
     - Die Art von Anwendungen oder Lösungen, die Sie entwickeln möchten.
     - Produkte, Technologien und Programmiersprachen, an denen Sie interessiert sind.
 
-9. Klicken Sie nach Abschluss des Vorgangs auf **Beitreten**. Ihre Einstellungen werden auf der nächsten Seite in der oberen rechten Ecke angezeigt, und es wird eine Begrüßungsnachricht angezeigt.
+9. Klicken Sie nach Abschluss des Vorgangs auf **Beitreten**. Ihre Präferenzen werden auf der nächsten Seite in der oberen rechten Ecke angezeigt, und es wird eine Begrüßungsnachricht angezeigt. Darüber hinaus erhalten Sie eine Willkommens-E-Mail.
 
 
 
