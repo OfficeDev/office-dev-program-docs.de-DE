@@ -3,12 +3,12 @@ title: Häufig gestellte Fragen zum Microsoft 365-Entwicklerprogramm
 description: Häufig gestellte Fragen zum Microsoft 365-Entwicklerprogramm.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 61e75fbf308e2cf92ea1ed3c135874a3357cf147
-ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
+ms.openlocfilehash: cbc15fbfaf5873a21eda6d100b590121fe2328cb
+ms.sourcegitcommit: c70eb4a7cab5b403e602d7ddf8abf3cff5054346
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51890189"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52331324"
 ---
 # <a name="microsoft-365-developer-program-faq"></a>Häufig gestellte Fragen zum Microsoft 365-Entwicklerprogramm
 
@@ -148,7 +148,7 @@ Wenn Sie ein Abonnement bevorzugen, das für eine längere Zeit verfügbar ist, 
 
 ## <a name="how-do-you-determine-whether-a-subscription-can-be-renewed"></a>Wie stellen Sie fest, ob ein Abonnement verlängert werden kann?
 
-Wir verwenden eine Reihe von Algorithmen und Telemetrie, die wir aus Ihrer Tätigkeit im Microsoft 365-Entwicklerprogramm und in Ihrem Office 365 E3- oder Microsoft 365 E5-Entwicklerabonnement erhalten, um zu ermitteln, ob Sie aktiv entwickeln. Wir überprüfen diese regelmäßig, um Ihren Status zu aktualisieren und festzustellen, ob Ihr Abonnement verlängert werden sollte. 
+Wir verwenden eine Reihe von Algorithmen und Telemetrie, die wir aus Ihrer Tätigkeit im Microsoft 365-Entwicklerprogramm und in Ihrem Office 365 E3- oder Microsoft 365 E5-Entwicklerabonnement erhalten, um zu ermitteln, ob Sie aktiv entwickeln. Wir überprüfen diese regelmäßig, um Ihren Status zu aktualisieren und zu bestimmen, ob Ihr Abonnement verlängert werden sollte. 
 
 Wenn Sie der Meinung sind, dass wir Ihre Entwicklungsaktivitäten aus irgendeinem Grund nicht genau verfolgt haben, können Sie uns dies über Ihr Dashboard mitteilen. Um ein Formular einzureichen, das uns mitteilt, wie Sie Ihr Abonnement für die Entwicklung verwenden, wählen Sie in der Dashboard-Warnung den Link **Informieren Sie uns**, wie im folgenden Bild gezeigt. Wir überprüfen Ihre Anforderung und lassen Sie wissen, ob Sie sich für eine Verlängerung qualifizieren. 
 
@@ -168,9 +168,11 @@ Weitere Informationen finden Sie unter [Ablauf und Verlängerung für das Abonne
 
 ## <a name="if-my-subscription-is-going-to-expire-how-much-time-do-i-have-before-it-is-deleted"></a>Wenn mein Abonnement abläuft, wie viel Zeit habe ich, bevor es gelöscht wird?
 
-Nachdem Ihr Abonnement abgelaufen ist, haben Sie 30 Tage Zeit, Ihre Daten zu migrieren. Für die nächsten 30 Tage hat nur der Administrator Zugriff auf das Abonnement, und am 60. Tag werden das Abonnement und alle Daten gelöscht.
+Nach Ablauf Ihres Abonnements haben Sie 30 Tage Zeit, um Daten zu migrieren. In den nächsten 30 Tagen hat nur der Administrator Zugriff auf das Abonnement und am 60. Tag werden das Abonnement und alle Daten gelöscht.
 
-<a name="account-types"> </a>
+## <a name="why-should-i-link-my-github-account"></a>Warum sollte ich mein GitHub-Konto verknüpfen?
+
+Wenn Sie am Microsoft 365-Entwicklerprogramm teilnehmen, können Sie Ihr GitHub-Konto auf der Seite [Meine Einstellungen](https://developer.microsoft.com/microsoft-365/profile/settings/preferences) mit Ihrem Entwicklerprogrammkonto verknüpfen. Durch das Verknüpfen Ihres GitHub-Kontos wird Ihr Microsoft 365 Entwickler-Sandbox-Abonnement erneuert. Sie können die Verknüpfung mit Ihrem Konto auch aufheben, indem Sie auf der Seite **Meine Einstellungen** zum Abschnitt [Verknüpfte Konten](https://developer.microsoft.com/microsoft-365/profile/settings/accounts-linked) wechseln.
 
 ## <a name="how-can-i-migrate-from-an-office-365-e3-subscription-to-a-microsoft-365-e5-subscription"></a>Wie kann ich von einem Office 365 E3-Abonnement zu einem Microsoft 365 E5-Abonnement migrieren?
 
