@@ -2,12 +2,12 @@
 title: Verwenden Ihres Entwicklerabonnements zum Erstellen von Microsoft 365-Lösungen
 description: Verwenden Sie Ihr Microsoft 365 Developer-Abonnement, um die Lösungen zu erstellen, die Ihren Vorstellungen entsprechen.
 localization_priority: Priority
-ms.openlocfilehash: 2b2e68eb2e9ce474cf6e936c72aedd441e873ff3
-ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
+ms.openlocfilehash: 454bf488dc0cb63ca0d58ba2ddbb5249204f0ea7
+ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51890137"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53206895"
 ---
 # <a name="use-your-developer-subscription-to-build-microsoft-365-solutions"></a>Verwenden Ihres Entwicklerabonnements zum Erstellen von Microsoft 365-Lösungen
 
@@ -57,8 +57,7 @@ Informationen zum Einrichten Ihrer Entwicklungsumgebung und zum Erstellen Ihres 
 
 Das SharePoint Framework (SPFx) ist ein Seiten- und Webpart-Modell, das vollständige Unterstützung für die clientseitige SharePoint-Entwicklung, einfache Integration in SharePoint-Daten und Unterstützung für Open-Source-Tools bietet. Mit dem SharePoint Framework können Sie moderne Webtechnologien und -tools in Ihrer bevorzugten Entwicklungsumgebung verwenden, um produktive Erfahrungen zu ermöglichen und Apps zu erstellen, die schnell reagieren und für Mobilgeräte geeignet sind.
 
-Wenn Ihr Sandkasten automatisch so konfiguriert werden soll, dass verschiedene SharePoint-Vorlagen und -Szenarien ausprobiert werden können, installieren Sie das SharePoint-Beispieldatenpaket.
-Weitere Details finden Sie unter:
+Wenn Ihre Sandbox automatisch so konfiguriert werden soll, dass verschiedene SharePoint-Vorlagen und -Szenarien ausprobiert werden können, installieren Sie das SharePoint-Beispieldatenpaket. Weitere Informationen erhalten Sie unter:
 
 - [Installieren von Beispieldatenpaketen](install-sample-packs.md)
 - [Einrichten Ihres Entwicklerabonnements für SPFx](/sharepoint/dev/spfx/set-up-your-developer-tenant)
@@ -87,7 +86,7 @@ Power Apps bietet zudem eine erweiterbare Plattform, auf der erfahrene Entwickle
 
 Weitere Informationen:
 
-- [PowerApps](https://docs.microsoft.com/de-DE/powerapps/)
+- [PowerApps](/powerapps/)
 - Sehen Sie sich [Power Apps-Demos](https://powerapps.microsoft.com/demo/) an.
 - Schauen Sie sich Videos auf dem [Power Apps-Kanal](https://www.youtube.com/channel/UCGfWR2ekfRFckLjev6eQYLg) auf YouTube an.
 
@@ -97,4 +96,4 @@ Weitere Informationen:
 - [Teilnehmen am Microsoft 365-Entwicklerprogramm](microsoft-365-developer-program.md)
 - [Einrichten eines Microsoft 365 Developer-Abonnements](microsoft-365-developer-program-get-started.md) 
 - [Verlängern eines ablaufenden Abonnements](subscription-expiration-and-renewal.md)
-- [Häufig gestellte Fragen zum Microsoft 365-Entwicklerprogramm](microsoft-365-developer-program-faq.md)
+- [Häufig gestellte Fragen zum Microsoft 365-Entwicklerprogramm](microsoft-365-developer-program-faq.yml)

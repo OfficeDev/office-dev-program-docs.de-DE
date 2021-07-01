@@ -3,12 +3,12 @@ title: Einrichten eines Microsoft 365-Entwickler-Sandboxabonnements
 description: Richten Sie ein Microsoft 365-Entwicklerabonnement ein, um unabhängig von Ihrer Produktionsumgebung Lösungen zu entwickeln.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 49bfba3133351dfc67b6686250fb9152fc8d9688
-ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
+ms.openlocfilehash: c35814955abb2158a076d6ca566c3bf76fc5289f
+ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51890182"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53206916"
 ---
 # <a name="set-up-a-microsoft-365-developer-sandbox-subscription"></a>Einrichten eines Microsoft 365-Entwickler-Sandboxabonnements 
 
@@ -72,7 +72,7 @@ Richten Sie ein Microsoft 365-Entwicklerabonnement ein, um unabhängig von Ihrer
 
 Es dauert einige Zeit, bis die die Back-End-Dienste wie SharePoint und Exchange für das Abonnement bereitgestellt wurden. Bei diesem Schritt wird für einige Symbole im App-Startfeld und auf der Startseite angezeigt, **dass diese noch eingerichtet werden (bzw. dass die App noch eingerichtet wird)**. Dies dauert nicht länger als eine Stunde.
 
-Wenn die Bereitstellung abgeschlossen ist, können Sie das neue Microsoft 365-Abonnement zum Entwickeln verwenden. Das Abonnement läuft nach 90 Tagen ab. Zum Verlängern lesen Sie [Kann ich mein Abonnement verlängern, wenn es bald abläuft?](microsoft-365-developer-program-faq.md#renew-subscription)
+Wenn die Bereitstellung abgeschlossen ist, können Sie das neue Microsoft 365-Abonnement zum Entwickeln verwenden. Das Abonnement läuft nach 90 Tagen ab. Zum Verlängern lesen Sie [Kann ich mein Abonnement verlängern, wenn es bald abläuft?](microsoft-365-developer-program-faq.yml#renew-subscription)
 
 Wir empfehlen außerdem, dass Sie Release-Optionen aktivieren, um sicherzustellen, dass Sie so bald wie möglich Zugriff auf die neuesten Microsoft 365-Features erhalten. Weitere Informationen finden Sie unter [Einrichten der Standard- oder Targeted Release-Optionen](https://support.office.com/article/set-up-the-standard-or-targeted-release-options-in-office-365-3b3adfa4-1777-4ff0-b606-fb8732101f47).
 
@@ -89,4 +89,4 @@ Sie können Beispieldatenpakete in Ihrem Abonnement für das Microsoft 365-Entwi
 - [Teilnehmen am Microsoft 365-Entwicklerprogramm](microsoft-365-developer-program.md)
 - [Verwenden Ihres Abonnements zum Erstellen von Microsoft 365-Lösungen](build-microsoft-365-solutions.md)
 - [Verlängern eines ablaufenden Abonnements](subscription-expiration-and-renewal.md)
-- [Häufig gestellte Fragen zum Microsoft 365-Entwicklerprogramm](microsoft-365-developer-program-faq.md)
+- [Häufig gestellte Fragen zum Microsoft 365-Entwicklerprogramm](microsoft-365-developer-program-faq.yml)

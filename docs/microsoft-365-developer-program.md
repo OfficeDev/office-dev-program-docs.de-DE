@@ -2,12 +2,12 @@
 title: Willkommen beim Microsoft 365-Entwicklerprogramm
 description: Treten Sie dem Microsoft 365-Entwicklerprogramm bei, um unabhängig von Ihrer Produktionsumgebung Microsoft 365-Lösungen zu entwickeln.
 localization_priority: Priority
-ms.openlocfilehash: 31414ea3b88e711f81ba8a5d879e6e666ecbaa3b
-ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
+ms.openlocfilehash: 1beb4ce8946ac64d574328c8fc1c771a0700cd4d
+ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51890158"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53206902"
 ---
 # <a name="welcome-to-the-microsoft-365-developer-program"></a>Willkommen beim Microsoft 365-Entwicklerprogramm
 
@@ -53,6 +53,6 @@ Verfügen Sie über ein Visual Studio Pro- oder Enterprise-Abonnement? In diesem
 - [Richten Sie ein Microsoft 365 Developer-Abonnement ein](microsoft-365-developer-program-get-started.md). 
 - Nachdem Sie ein Entwicklerabonnement abgeschlossen haben, [verwenden Sie Ihr Abonnement](build-microsoft-365-solutions.md), um die gewünschten Lösungen zu erstellen.
 - Informationen zu ablaufende Abonnements finden Sie unter [Ablauf und Verlängerung für das Abonnement](subscription-expiration-and-renewal.md).
-- Häufig gestellte Fragen zum Microsoft 365-Entwicklerprogramm finden Sie in den [Häufig gestellten Fragen](microsoft-365-developer-program-faq.md).
+- Häufig gestellte Fragen zum Microsoft 365-Entwicklerprogramm finden Sie in den [Häufig gestellten Fragen](microsoft-365-developer-program-faq.yml).
 
 
