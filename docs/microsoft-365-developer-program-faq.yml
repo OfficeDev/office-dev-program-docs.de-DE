@@ -1,0 +1,138 @@
+### YamlMime:FAQ
+metadata:
+  title: Häufig gestellte Fragen zum Microsoft 365-Entwicklerprogramm
+  description: Häufig gestellte Fragen zum Microsoft 365-Entwicklerprogramm.
+  ms.date: 04/01/2019
+  localization_priority: Priority
+  ms.openlocfilehash: 231fc0fa6d6a8ab2fb12e154542a637d829ef6bf
+  ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 06/30/2021
+  ms.locfileid: "53206926"
+title: Häufig gestellte Fragen zum Microsoft 365-Entwicklerprogramm
+summary: Nachfolgend finden Sie häufig gestellte Fragen zum Microsoft 365-Entwicklerprogramm.
+sections:
+- name: Ignoriert
+  questions:
+  - question: >
+      Was ist das Microsoft 365-Entwicklerprogramm und wer sollte ihm beitreten?
+    answer: >
+      Das Microsoft 365-Entwicklerprogramm wurde entwickelt, um Ihnen zu helfen, menschenorientierte, plattformübergreifende Produktivitätsumgebungen zu schaffen, die Microsoft 365 erweitern. Treten Sie unserem Programm bei, um Zugang zu den benötigten Tools, Dokumentation, Schulungen, Experten und Communityereignissen zu erhalten, um großartige Lösungen für Microsoft 365-Produkte und -Technologien zu entwickeln, einschließlich:
+
+
+      - [Excel](https://developer.microsoft.com/excel)-, [Outlook](https://developer.microsoft.com/outlook)-, [Word](https://developer.microsoft.com/word)- und [PowerPoint](https://developer.microsoft.com/powerpoint)-Web-Add-Ins
+
+      - [SharePoint](https://developer.microsoft.com/sharepoint)
+
+      - [Microsoft Teams](https://developer.microsoft.com/microsoft-teams)
+
+      - [Microsoft Graph](https://developer.microsoft.com/graph)
+
+
+      Als Teilnehmer des Programms erhalten Sie ein kostenloses Microsoft 365-Entwicklerabonnement mit 25 Benutzerlizenzen erhalten, die Sie zum Erstellen Ihrer Lösungen verwenden können. Dieses Abonnement bleibt so lange aktiv, wie Sie aktiv Lösungen entwickeln und bereitstellen.
+
+
+      Weitere Informationen finden Sie unter [Treten Sie dem Microsoft 365-Entwicklerprogramm bei](microsoft-365-developer-program.md) und [Erstellen von Microsoft 365-Lösungen](build-microsoft-365-solutions.md).
+  - question: >
+      Welches Konto kann ich verwenden, um mich für das Microsoft 365-Entwicklerprogramm anzumelden?
+    answer: "Sie können sich mit einem der folgenden Kontotypen für das Entwicklerprogramm registrieren:\n\n- **Microsoft-Konto** (von Ihnen für private Zwecke erstellt) – Ermöglicht Zugriff auf alle Microsoft-Produkte und Clouddienste, z. B. Outlook (Hotmail), Messenger, OneDrive, MSN, Xbox Live oder Microsoft 365. Durch Registrieren für ein Outlook.com-Postfach wird automatisch ein Microsoft-Konto erstellt. Nachdem ein Microsoft-Konto erstellt wurde, kann es verwendet werden, um auf Microsoft Cloud-Dienste oder Azure für Verbraucher zuzugreifen. \n- **Geschäftskonto** (wird von einem Administrator für geschäftliche Zwecke ausgegeben) – Ermöglicht Zugriff auf Microsoft Cloud Services für kleine, mittelständische und große Unternehmen, z. B. Azure, Microsoft Intune oder Microsoft 365. Wenn Sie für einen dieser Dienste als Organisation registrieren, wird automatisch ein cloudbasiertes Verzeichnis in Azure Active Directory zur Darstellung bereitgestellt, das für Ihre Organisation steht. Weitere Informationen finden Sie unter [Verwalten Ihres Azure AD-Verzeichnisses](/azure/active-directory/active-directory-administer).\n- **Visual Studio-ID** (erstellt für Ihr Visual Studio Professional- oder Visual Studio Enterprise-Abonnement) – Wir empfehlen, diese Option zu verwenden, um dem Entwicklerprogramm über Visual Studio Gallery beizutreten und von den kompletten Vorteilen als Visual Studio-Abonnent zu profitieren. \n"
+  - question: "Wie erhalte ich ein Microsoft 365 Developer-Abonnement über das Entwicklerprogramm?  \n"
+    answer: >
+      Wenn Sie am Microsoft 365-Entwicklerprogramm teilnehmen, können Sie ein kostenloses Microsoft 365 E5-Entwicklerabonnement erhalten. Dabei handelt es sich um ein spezielles Abonnement, das nur für Anwendungsentwicklung entwickelt wurde. Weitere Informationen finden Sie unter [Einrichten eines Microsoft 365 Developer-Abonnements](microsoft-365-developer-program-get-started.md).
+  - question: >
+      Welche ID verwende ich, um mich beim Dashboard des Entwicklerprogramms anzumelden.
+    answer: >
+      Melden Sie sich mit Ihrer Mitglieds-ID beim Dashboard des Entwicklerprogramms an, um auf Informationen zu Ihrem Abonnement zuzugreifen. Hierbei handelt es sich um das Microsoft-Konto oder die Azure Active Directory-E-Mail, mit dem/der Sie sich beim Beitritt zum Programm angemeldet haben.
+  - question: >
+      Welche ID verwende ich für die Anmeldung bei meinem Entwicklerabonnement?
+    answer: >
+      Verwenden Sie die Administrator-ID, die Sie beim Einrichten Ihres Entwicklerabonnements erstellt haben. Ihre Administrator-ID finden Sie auf der Kachel "Abonnement" im [Dashboard des Entwicklerprogramms](https://aka.ms/DevProgramDashboard).
+  - question: >
+      Was ist im Entwicklerabonnement enthalten?
+    answer: "Wenn Sie Ihr Abonnement nach dem 25. August 2019 abgeschlossen haben, verfügen Sie über ein Microsoft 365 E5-Entwicklerabonnement mit 25 Benutzerlizenzen. Kunden, die dem Programm vor dem 25. August 2019 beigetreten sind, haben ein Office 365 E3-Entwicklerabonnement mit 25 Benutzerlizenzen.\n\nDas Office 365 E3-Entwicklerabonnement umfasst Folgendes:\n\n- [Exchange Online (Plan 2)](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)\n- [Microsoft Flow für Office 365](https://flow.microsoft.com/pricing/)\n- [Information Protection für Office 365 – Standard](https://products.office.com/en-us/business/azure-information-protection-for-office-365)\n- [Microsoft Forms (Plan E5)](https://support.office.com/article/Frequently-asked-questions-about-Microsoft-Forms-495c4242-6102-40a0-add8-df05ed6af61c)\n- [Microsoft Planner](https://products.office.com/compare-all-microsoft-office-products?tab=2)\n- \n  [Microsoft Search](https://products.office.com/en-us/business/intelligent-search?tab=Discovery)\n- [Microsoft Stream für Office 365 E5 SKU](https://products.office.com/business/office-365-enterprise-e5-business-software)\n- [Microsoft Teams](https://products.office.com/business/office-365-enterprise-e5-business-software)\n- [Verwaltung mobiler Geräte in Office 365](https://support.office.com/article/Set-up-Mobile-Device-Management-MDM-in-Office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)\n- [Office 365 ProPlus](https://products.office.com/business/office-365-proplus-business-software)\n- [Office für das Web](/office365/servicedescriptions/office-online-service-description/office-online-service-description)\n- [PowerApps für Office 365](https://powerapps.microsoft.com/pricing/)\n- [SharePoint Online für Entwickler](https://products.office.com/SharePoint/compare-sharepoint-plans)\n- [Skype for Business Online Plan 2](https://products.office.com/skype-for-business/online-meeting-solutions)\n- [Sway](https://sway.com/)\n- [To-do (Plan 3)](https://todo.microsoft.com)\n- [Whiteboard (Plan 2)](https://products.office.com/en-us/microsoft-whiteboard/digital-whiteboard-app)\n\nDas Microsoft 365 E5-Entwicklerabonnement enthält alle Apps, die im Office 365 E3-Entwicklerabonnement enthalten sind, sowie die folgenden neuen Funktionen:  \n\n- Fortschrittliche Analysefunktionen mit Power BI  \n- Enterprise Mobility + Security (EMS) für Compliance und Informationsschutz  \n- Office 365 Advanced Threat Protection \n- Azure Active Directory für den Aufbau erweiterter Identitäts-und Zugriffsverwaltungslösungen  \n\nDas Microsoft 365 E5-Entwicklerabonnement umfasst Folgendes: \n\n- Azure Active Directory Premium P1 \n- Azure Active Directory Premium P2 \n-   Azure Advanced Threat Protection \n-   Azure Information Protection Premium P1 \n-   Azure Information Protection Premium P2 \n-   Kunden-Lockbox \n-   Exchange Online (Plan 2) \n-   Microsoft Flow für Office 365 \n-   Information Protection für Office 365 – Premium \n-   Information Protection für Office 365 – Standard \n-   Microsoft Azure Active Directory-Rechte \n-   Microsoft Azure Multi-Factor Authentication \n-   Microsoft Cloud App Security \n-   Microsoft Forms (Plan E5) \n-   Microsoft Intune \n-   Microsoft MyAnalytics (Vollversion) \n-   Microsoft Planner \n-   Microsoft StaffHub \n-   Microsoft Stream für Office 365 E5 SKU \n-   Microsoft Teams \n-   Verwaltung mobiler Geräte für Office 365 \n-   Office 365 Advanced eDiscovery \n-   Office 365 Advanced Security Management \n-   Office 365 Advanced Threat Protection (Plan 1) \n-   Office 365 Advanced Threat Protection (Plan 2) \n-   Office 365 Privileged Access Management \n-   Office 365 ProPlus \n-   Office Online \n-   Telefonsystem \n-   Power BI Pro \n-   PowerApps für Office 365 Plan 3 \n-   SharePoint Online (Plan 2) \n-   Skype for Business Online (Plan 2) \n-   Sway \n-   To-Do (Plan 3) \n-   Whiteboard (Plan 3) \n-   Yammer Enterprise \n\nOb Sie über ein Microsoft 365 E5-Abonnement oder ein Office 365 E3-Abonnement verfügen, können Sie auf der Abonnementkachel auf Ihrem [Dashboard](https://developer.microsoft.com/office/profile) feststellen. Auf der Kachel wird unterhalb des Domänennamens des Abonnements entweder E3 oder E5 angezeigt.\n\n![Screenshot einer Abonnementkachel mit hervorgehobenem E5](images/subscription-tile-e5.png).\n"
+  - question: >
+      Umfasst das Abonnement auch ein Abonnement für Azure?
+    answer: "Dieses Angebot schließt kein Abonnement für Azure ein. Um aber kostenlosen Zugriff auf Azure-Dienste zu erhalten, können Sie [ein kostenloses Azure-Konto erstellen](https://azure.microsoft.com/free/). \n"
+  - question: >
+      Wie viele Benutzerlizenzen enthält das Entwicklerabonnement?
+    answer: >
+      Ihr Office 365 E3- oder Microsoft 365 E5-Entwicklerabonnement enthält 25 Benutzerlizenzen (einschließlich des Administrators) nur für Entwicklungszwecke. Die Verwendung dieses Abonnements für andere Zwecke als die Anwendungsentwicklung ist ein Verstoß gegen die Lizenzvereinbarung. Weitere Informationen über die Lizenzeinschränkungen finden Sie unter [Nutzungsbedingungen](terms-and-conditions.md).
+  - question: >
+      Wie lange ist mein Abonnement gültig und wann läuft es ab?
+    answer: "Ihr Abonnement ist 90 Tage gültig und verlängerbar, basierend auf gültiger Entwickleraktivität. Wenn Sie Ihr Abonnement für die Entwicklung verwenden, wird es alle 3 Monate verlängert und ist unbegrenzt verfügbar. Das Ablaufdatum, zusammen mit dem Abonnementnamen, finden Sie im [Dashboard des Microsoft 365-Entwicklerprogramms](https://aka.ms/DevProgramDashboard). Weitere Informationen finden Sie unter [Ablauf und Verlängerung für das Abonnement](subscription-expiration-and-renewal.md).\n\nWenn Sie dem Programm über Visual Studio Enterprise oder Visual Studio Professional beitreten, wird Ihr Abonnement automatisch verlängert, bis Ihr Visual Studio-Abonnement abläuft. \n\n<a name=\"renew-subscription\"> </a>\n"
+  - question: >
+      Warum bieten Sie kein 1-Jahres-Abonnement an?
+    answer: "Im April 2019 haben wir zu einem neuen Modell gewechselt, bei dem Ihr Abonnement alle 90 Tage erneuert werden kann, wenn Sie es aktiv für die Entwicklung nutzen. Wir sind der Meinung, dass dieses Modell sicherstellt, dass Entwicklern, die aktiv Lösungen entwickeln, ein Abonnement zur Verfügung steht, solange sie es benötigen. Wenn Sie häufig entwickeln, läuft Ihr Abonnement nie ab; es wird automatisch verlängert. Wenn Sie für kurze Zeit entwickeln und Ihr Abonnement abläuft und gelöscht wird, können Sie sich für ein neues Abonnement anmelden. \n\nWenn Sie ein Abonnement bevorzugen, das für eine längere Zeit verfügbar ist, empfehlen wir Ihnen, das Abonnement für Visual Studio Professional oder Visual Studio Enterprise zu erwerben. Diese Programme enthalten ein kostenloses Microsoft 365 Developer-Abonnement, das für die Dauer Ihres Visual Studio-Abonnements gültig ist. Um darauf zuzugreifen, navigieren Sie zu [Visual Studio | Meine Vorteile ](https://my.visualstudio.com/benefits). Weitere Informationen erhalten Sie unter [Visual Studio-Kundendienst](https://www.visualstudio.com/subscriptions/support/). \n"
+  - question: >
+      Wie stellen Sie fest, ob ein Abonnement verlängert werden kann?
+    answer: "Wir verwenden eine Reihe von Algorithmen und Telemetrie, die wir aus Ihrer Tätigkeit im Microsoft 365-Entwicklerprogramm und in Ihrem Office 365 E3- oder Microsoft 365 E5-Entwicklerabonnement erhalten, um zu ermitteln, ob Sie aktiv entwickeln. Wir überprüfen diese regelmäßig, um Ihren Status zu aktualisieren und zu bestimmen, ob Ihr Abonnement verlängert werden sollte. \n\nWenn Sie der Meinung sind, dass wir Ihre Entwicklungsaktivitäten aus irgendeinem Grund nicht genau verfolgt haben, können Sie uns dies über Ihr Dashboard mitteilen. Um ein Formular einzureichen, das uns mitteilt, wie Sie Ihr Abonnement für die Entwicklung verwenden, wählen Sie in der Dashboard-Warnung den Link **Informieren Sie uns**, wie im folgenden Bild gezeigt. Wir überprüfen Ihre Anforderung und lassen Sie wissen, ob Sie sich für eine Verlängerung qualifizieren. \n\n<img alt=\"Screenshot of the subscription expiration text box with the let us know link highlighted\" src=\"images/appeals-ux-for-qa.jpg\" width=\"500\"> \n"
+  - question: >
+      Wie definieren Sie Entwicklungsaktivität?
+    answer: "Ihre Aktivitäten im Entwicklerprogramm und in Ihrem Entwicklerabonnement bestimmen, ob Sie aktiv entwickeln und ob Ihr Abonnement verlängert werden sollte. \n\nWeitere Informationen dazu, welche Arten von Aktivitäten wir verfolgen, finden Sie unter [Nutzungsbedingungen](terms-and-conditions.md). \n"
+  - question: >
+      Kann ich mein Abonnement verlängern, wenn es bald abläuft?
+    answer: "Die einzige Möglichkeit, Ihr Abonnement zu verlängern, besteht darin, gültige Entwickleraktivitäten durchzuführen. Wenn Sie Ihr Abonnement zur Entwicklung benutzerdefinierter Lösungen verwenden, läuft Ihr Abonnement ab und wird schließlich gelöscht. \n\nWeitere Informationen finden Sie unter [Ablauf und Verlängerung für das Abonnement](subscription-expiration-and-renewal.md).\n"
+  - question: >
+      Wenn mein Abonnement abläuft, wie viel Zeit habe ich, bevor es gelöscht wird?
+    answer: >
+      Nach Ablauf Ihres Abonnements haben Sie 30 Tage Zeit, um Daten zu migrieren. In den nächsten 30 Tagen hat nur der Administrator Zugriff auf das Abonnement und am 60. Tag werden das Abonnement und alle Daten gelöscht.
+
+
+      <a name="account-types"> </a>
+  - question: >
+      Wie kann ich von einem Office 365 E3-Abonnement zu einem Microsoft 365 E5-Abonnement migrieren?
+    answer: "Aktuell erhalten nur neue Mitglieder des Microsoft 365-Entwicklerprogramms automatisch ein Microsoft 365 E5-Entwicklerabonnement. Bestehenden Benutzern wird künftig eine Möglichkeit für die Migration zu einem Microsoft 365 E5-Entwicklerabonnement angeboten. Seien Sie versichert: Wir arbeiten daran, allen Mitglieder des Office 365-Entwicklerprogramms zu ermöglichen, zu Microsoft 365 E5 zu migrieren. \n"
+  - question: >
+      Warum sollte ich mein GitHub-Konto verknüpfen?
+    answer: >
+      Wenn Sie am Microsoft 365-Entwicklerprogramm teilnehmen, können Sie Ihr GitHub-Konto auf der Seite [Meine Einstellungen](https://developer.microsoft.com/microsoft-365/profile/settings/preferences) mit Ihrem Entwicklerprogrammkonto verknüpfen. Durch das Verknüpfen Ihres GitHub-Kontos wird Ihr Microsoft 365 Entwickler-Sandbox-Abonnement erneuert. Sie können die Verknüpfung mit Ihrem Konto auch aufheben, indem Sie auf der Seite **Meine Einstellungen** zum Abschnitt [Verknüpfte Konten](https://developer.microsoft.com/microsoft-365/profile/settings/accounts-linked) wechseln.
+  - question: >
+      Kann ich mich zwischen einem Office 365 E3- oder einem Microsoft 365 E5-Abonnement entscheiden?
+    answer: "Derzeit wird nur neuen Mitgliedern des Entwicklerprogramms ein Microsoft 365 E5-Abonnement angeboten. Bestehende Mitglieder mit einem Office 365 E3-Abonnement haben die Möglichkeit, ihr aktuelles Abonnement zu behalten und es weiter zu verlängern, wenn sie die neuen Funktionen von Microsoft 365 E5 nicht benötigen. Mitglieder des Entwicklerprogramms können nur ein Abonnement haben.  \n\nSobald eine Migrationsoption für bestehende Mitglieder des Entwicklerprogramms besteht, werden wir weitere Informationen zum Migrieren bereitstellen. \n"
+  - question: "Kann ich als Microsoft-Partner ein Abonnement erhalten? \n"
+    answer: "Ja, Sie können die [folgenden Anweisungen](microsoft-365-developer-program.md) befolgen, um am Microsoft 365-Entwicklerprogramm teilzunehmen und ein Microsoft 365 Developer-Abonnement einzurichten. Wenn Sie jedoch bereits über ein Abonnement von Visual Studio Enterprise oder Visual Studio Professional verfügen, können Sie zusätzlich ein Microsoft 365-Entwicklerabonnement erhalten. Um darauf zuzugreifen, navigieren Sie zu [Visual Studio | Meine Vorteile ](https://my.visualstudio.com/benefits). Weitere Informationen erhalten Sie unter [Visual Studio-Kundendienst](https://www.visualstudio.com/subscriptions/support/). \n"
+  - question: >
+      Kann ich als Vollzeitmitarbeiter von Microsoft ein Abonnement erhalten?
+    answer: >
+      Microsoft-Mitarbeiter können sich nicht für dieses Angebot registrieren. Alle Vollzeitmitarbeiter von Microsoft haben Zugriff auf ein kostenloses Visual Studio-Abonnement, das den Zugriff auf ein Microsoft 365 E5-Entwicklerabonnement umfasst. Sie können unter [Visual Studio | Meine Angebote](https://my.visualstudio.com/benefits) auf dieses Angebot zugreifen.
+  - question: >
+      Komme ich als Anbieter bei Microsoft für ein Abonnement in Frage?
+    answer: >
+      Ja, Sie können die [folgenden Anweisungen](microsoft-365-developer-program.md) befolgen, um am Microsoft 365-Entwicklerprogramm teilzunehmen und ein Microsoft 365 Developer-Abonnement einzurichten. Aber auch für Anbieter ist dieses Abonnement so konzipiert, dass es _nur für die Anwendungsentwicklung_ verwendet werden kann. Wenn Sie keine gültigen Entwicklungsaktivitäten durchführen, wird Ihr Abonnement nicht verlängert.
+  - question: >
+      Ist das Microsoft 365-Entwicklerprogramm in meiner Sprache verfügbar?
+    answer: >
+      Neben Englisch ist das Microsoft 365-Entwicklerprogramm in den folgenden Sprachen verfügbar: Chinesisch (vereinfacht), Deutsch, Französisch, Japanisch, Portugiesisch (Brasilien), Russisch und Spanisch.
+  - question: >
+      Ist das Microsoft 365 Developer-Abonnement in meiner Sprache verfügbar?
+    answer: >
+      Das Microsoft 365-Entwicklerabonnement wird nur auf Englisch angeboten.
+  - question: >
+      Wie kann ich das Microsoft 365-Entwicklerprogramm verlassen?
+    answer: >
+      Wenn Sie beschließen, dass Sie nicht mehr am Microsoft 365-Entwicklerprogramm teilnehmen möchten, können Sie Ihr Abonnement beenden und das Programm verlassen.
+
+        > [!WARNING]
+        > Mit den folgenden Schritten werden Ihre gesamten Profilinformationen gelöscht. Es werden alle in Ihrem Entwicklerprogramm gespeicherten Daten gelöscht, die nicht an anderer Stelle gesichert sind.
+
+      1. Melden Sie sich beim Microsoft 365-Entwicklerprogramm an.
+
+
+      2. Wählen Sie **Profil löschen** aus.
+
+
+      3. Wählen Sie im Bestätigungsfeld **Profil löschen** die Option **Löschen** aus.
+  - question: >
+      Support
+    answer: "Wenn Sie Probleme beim Einrichten Ihres Abonnements haben, sehen Sie sich die folgenden Supportressourcen an:\n\n- [Stack Overflow](https://stackoverflow.com/questions)   \n- [Visual Studio-Kundendienst](https://www.visualstudio.com/subscriptions/support/)\n"
+  - question: >
+      Weitere Artikel
+    answer: >-
+      - [Teilnehmen am Microsoft 365-Entwicklerprogramm](microsoft-365-developer-program.md)
+
+      - [Einrichten eines Microsoft 365 Developer-Abonnements](microsoft-365-developer-program-get-started.md)
+
+      - [Verwenden Ihres Abonnements zum Erstellen von Microsoft 365-Lösungen](build-microsoft-365-solutions.md)
+
+      - [Verlängern eines ablaufenden Abonnements](subscription-expiration-and-renewal.md)
