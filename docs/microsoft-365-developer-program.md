@@ -4,7 +4,7 @@ description: Treten Sie dem Microsoft 365-Entwicklerprogramm bei, um unabhängig
 localization_priority: Priority
 ms.openlocfilehash: 1beb4ce8946ac64d574328c8fc1c771a0700cd4d
 ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
-ms.translationtype: HT
+ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 06/30/2021
 ms.locfileid: "53206902"
@@ -17,7 +17,7 @@ Verfügen Sie über ein Visual Studio Pro- oder Enterprise-Abonnement? In diesem
 
 ## <a name="join-the-microsoft-365-developer-program"></a>Teilnehmen am Microsoft 365-Entwicklerprogramm
 
-1. Navigieren Sie zur Seite [Teilnehmen am Microsoft 365-Entwicklerprogramm](https://developer.microsoft.com/de-DE/microsoft-365/dev-program). 
+1. Navigieren Sie zur Seite [Teilnehmen am Microsoft 365-Entwicklerprogramm](https://developer.microsoft.com/en-us/microsoft-365/dev-program). 
 
 2. Wählen Sie in der oberen rechten Ecke **Anmelden** aus, um sich mit Ihrem Microsoft-Konto oder Ihrem Azure Active Directory-fähigen E-Mail-Konto anzumelden.
 
