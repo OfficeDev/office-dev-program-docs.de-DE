@@ -3,13 +3,13 @@ metadata:
   title: Häufig gestellte Fragen zum Microsoft 365-Entwicklerprogramm
   description: Häufig gestellte Fragen zum Microsoft 365-Entwicklerprogramm.
   ms.date: 04/01/2019
-  localization_priority: Priority
-  ms.openlocfilehash: 4c0eb41ec477df73e8760118225b1544a77e70de
-  ms.sourcegitcommit: 1bd3cd014653f16b15c019bfbc0eceb01a273512
+  ms.localizationpriority: high
+  ms.openlocfilehash: ca503a50bd32678583899ecf23aa8b15c4735322
+  ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
   ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 08/27/2021
-  ms.locfileid: "58683135"
+  ms.lasthandoff: 09/16/2021
+  ms.locfileid: "59396700"
 title: Häufig gestellte Fragen zum Microsoft 365-Entwicklerprogramm
 summary: Nachfolgend finden Sie häufig gestellte Fragen zum Microsoft 365-Entwicklerprogramm.
 sections:
@@ -82,14 +82,18 @@ sections:
       <a name="account-types"> </a>
   - question: >
       Wie kann ich von einem Office 365 E3-Abonnement zu einem Microsoft 365 E5-Abonnement migrieren?
-    answer: "Aktuell erhalten nur neue Mitglieder des Microsoft 365-Entwicklerprogramms automatisch ein Microsoft 365 E5-Entwicklerabonnement. Vorhandenen Benutzern wird die Möglichkeit angeboten, zu einem Microsoft 365 E5 Abonnement zu migrieren. \n\nWenn Sie zu einem Microsoft 365 E5 Abonnement migrieren möchten, können Sie das kostenlose Tool [Microsoft Mover](https://mover.io/) verwenden, um Ihre Daten zu migrieren. Siehe auch die folgenden Ressourcen:\n\n- [Migrieren von Postfächern von einem Microsoft 365 Mandanten zu einem anderen](https://docs.microsoft.com/en-us/exchange/mailbox-migration/migrate-mailboxes-across-tenants)\n- [Verwenden von PowerShell zum Durchführen einer mehrstufigen Migration zu Office 365](https://docs.microsoft.com/en-us/microsoft-365/enterprise/use-powershell-to-perform-a-staged-migration-to-microsoft-365?view=o365-worldwide)\n- [Migrieren Ihrer Inhalte zu Microsoft 365](https://docs.microsoft.com/en-us/sharepointmigration/migrate-to-sharepoint-online).\n"
+    answer: "Aktuell erhalten nur neue Mitglieder des Microsoft 365-Entwicklerprogramms automatisch ein Microsoft 365 E5-Entwicklerabonnement. Vorhandenen Benutzern wird die Möglichkeit angeboten, zu einem Microsoft 365 E5 Abonnement zu migrieren. \n\nWenn Sie sich für die Migration zu einem Microsoft 365 E5 Abonnement entscheiden, können Sie das kostenlose Tool [Microsoft Mover](https://mover.io/) verwenden, um Ihre Daten zu migrieren. Siehe auch die folgenden Ressourcen:\n\n- [Migrieren von Postfächern von einem Microsoft 365 Mandanten zu einem anderen](https://docs.microsoft.com/en-us/exchange/mailbox-migration/migrate-mailboxes-across-tenants)\n- [Verwenden von PowerShell zum Durchführen einer mehrstufigen Migration zu Office 365](https://docs.microsoft.com/en-us/microsoft-365/enterprise/use-powershell-to-perform-a-staged-migration-to-microsoft-365?view=o365-worldwide)\n- [Migrieren Ihrer Inhalte zu Microsoft 365](https://docs.microsoft.com/en-us/sharepointmigration/migrate-to-sharepoint-online).\n"
   - question: >
       Warum sollte ich mein GitHub-Konto verknüpfen?
     answer: >
       Wenn Sie am Microsoft 365-Entwicklerprogramm teilnehmen, können Sie Ihr GitHub-Konto auf der Seite [Meine Einstellungen](https://developer.microsoft.com/microsoft-365/profile/settings/preferences) mit Ihrem Entwicklerprogrammkonto verknüpfen. Durch das Verknüpfen Ihres GitHub-Kontos wird Ihr Microsoft 365 Entwickler-Sandbox-Abonnement erneuert. Sie können die Verknüpfung mit Ihrem Konto auch aufheben, indem Sie auf der Seite **Meine Einstellungen** zum Abschnitt [Verknüpfte Konten](https://developer.microsoft.com/microsoft-365/profile/settings/accounts-linked) wechseln.
   - question: >
       Kann ich mich zwischen einem Office 365 E3- oder einem Microsoft 365 E5-Abonnement entscheiden?
-    answer: "Derzeit wird neuen Mitgliedern des Entwicklerprogramms nur ein Microsoft 365 E5 Abonnement angeboten. Vorhandene Mitglieder mit einem Office 365 E3 Abonnement haben die Möglichkeit, ihr aktuelles Abonnement beizubehalten und es weiterhin zu verlängern, wenn sie die neuen Funktionen in Microsoft 365 E5 nicht benötigen oder ein einmaliges Upgrade auf ein Microsoft 365 E5 Abonnement durchführen. Mitglieder des Entwicklerprogramms können nur ein Abonnement haben.  \n"
+    answer: "Derzeit wird neuen Mitgliedern des Entwicklerprogramms nur ein Microsoft 365 E5 Abonnement angeboten. Bestehende Mitglieder mit einem Office 365 E3 Abonnement haben die Möglichkeit, ihr aktuelles Abonnement beizubehalten und es weiterhin zu verlängern, wenn sie die neuen Funktionen in Microsoft 365 E5 nicht benötigen oder ein einmaliges Upgrade auf ein Microsoft 365 E5 Abonnement durchführen. Mitglieder des Entwicklerprogramms können nur ein Abonnement haben.  \n"
+  - question: >
+      Unterliegt das Microsoft 365 Entwicklerabonnement der EU-Datengrenze für die Microsoft Cloud (EUDB)?
+    answer: >
+      Nein. Das kostenlose Microsoft 365 Entwicklerabonnement unterliegt nur den [Geschäftsbedingungen und](terms-and-conditions.md) nicht den EUDB-Verpflichtungen. Im Rahmen des Bereitstellungsprozesses haben Sie jedoch die Möglichkeit, das Land/die Region für Ihr Abonnement auszuwählen.
   - question: "Kann ich als Microsoft-Partner ein Abonnement erhalten? \n"
     answer: "Ja, Sie können die [folgenden Anweisungen](microsoft-365-developer-program.md) befolgen, um am Microsoft 365-Entwicklerprogramm teilzunehmen und ein Microsoft 365 Developer-Abonnement einzurichten. Wenn Sie jedoch bereits über ein Abonnement von Visual Studio Enterprise oder Visual Studio Professional verfügen, können Sie zusätzlich ein Microsoft 365-Entwicklerabonnement erhalten. Um darauf zuzugreifen, navigieren Sie zu [Visual Studio | Meine Vorteile ](https://my.visualstudio.com/benefits). Weitere Informationen erhalten Sie unter [Visual Studio-Kundendienst](https://www.visualstudio.com/subscriptions/support/). \n"
   - question: >
