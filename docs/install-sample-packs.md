@@ -1,13 +1,13 @@
 ---
 title: Verwenden von Beispieldatenpaketen mit Ihrem Abonnement für das Microsoft 365-Entwicklerprogramm
 description: Hier erfahren Sie, wie Sie Beispieldatenpakete in Ihrem Entwicklerabonnement für einen schnellen Einstieg in Ihre Sandboxumgebung installieren.
-localization_priority: Priority
-ms.openlocfilehash: 3802c1c1e02c7be9ccb322561189ee0d085e8ce0
-ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
+ms.localizationpriority: high
+ms.openlocfilehash: fb111d13a940fc5dffbba12b092a8f2bfd313872
+ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51890148"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "59396721"
 ---
 # <a name="use-sample-data-packs-with-your-microsoft-365-developer-program-subscription"></a>Verwenden von Beispieldatenpaketen mit Ihrem Abonnement für das Microsoft 365-Entwicklerprogramm
 
@@ -57,7 +57,7 @@ So installieren Sie das Beispieldatenpaket "Benutzer":
 
 ![Screenshot mit dem Dialogfeld zum Zustimmen zu den Berechtigungen](images/sample-data-pack-ux-tile-users-consent-with-permissions-combined.PNG)
 
-5. Konfigurieren Sie die Kennwörter für alle Beispielbenutzer. Sie sollten ein gemeinsames Kennwort verwenden, um die Verwaltung ihrer Beispielbenutzer zu erleichtern.
+5. Konfigurieren Sie Kennwörter für alle Beispielbenutzer. Sie sollten ein gemeinsames Kennwort verwenden, um die Verwaltung ihrer fiktiven Benutzer zu erleichtern.
 
 ![Screenshot des Dialogfelds zum Hinzufügen eines gemeinsamen Benutzerkennworts](images/sample-data-pack-ux-tile-users-fake-user-password-creation.PNG)
 

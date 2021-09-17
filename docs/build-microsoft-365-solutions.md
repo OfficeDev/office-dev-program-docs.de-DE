@@ -1,13 +1,13 @@
 ---
 title: Verwenden Ihres Entwicklerabonnements zum Erstellen von Microsoft 365-Lösungen
 description: Verwenden Sie Ihr Microsoft 365 Developer-Abonnement, um die Lösungen zu erstellen, die Ihren Vorstellungen entsprechen.
-localization_priority: Priority
-ms.openlocfilehash: 454bf488dc0cb63ca0d58ba2ddbb5249204f0ea7
-ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
+ms.localizationpriority: high
+ms.openlocfilehash: 4fc14896d3e0833f102cabc3152fb1e3a7884843
+ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53206895"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "59396676"
 ---
 # <a name="use-your-developer-subscription-to-build-microsoft-365-solutions"></a>Verwenden Ihres Entwicklerabonnements zum Erstellen von Microsoft 365-Lösungen
 
@@ -45,7 +45,7 @@ Um den Sandkasten automatisch für das Ausprobieren von Microsoft Graph-Szenarie
 
 Ausführliche Informationen finden Sie unter [Installieren von Beispieldatenpaketen](install-sample-packs.md). 
 
-Informationen zu weiteren Möglichkeiten, um mit der Verwendung von Microsoft Graph zu beginnen, finden Sie unter [Erste Schritte zum Entwickeln von Microsoft Graph-Apps](https://developer.microsoft.com/de-DE/graph/get-started) oder im [Schnellstart](https://developer.microsoft.com/de-DE/graph/quick-start) für Microsoft Graph.
+Informationen zu weiteren Möglichkeiten, um mit der Verwendung von Microsoft Graph zu beginnen, finden Sie unter [Erste Schritte zum Entwickeln von Microsoft Graph-Apps](https://developer.microsoft.com/en-us/graph/get-started) oder im [Schnellstart](https://developer.microsoft.com/en-us/graph/quick-start) für Microsoft Graph.
 
 ## <a name="office-add-ins"></a>Office-Add-Ins
 
@@ -55,7 +55,7 @@ Informationen zum Einrichten Ihrer Entwicklungsumgebung und zum Erstellen Ihres 
 
 ## <a name="sharepoint-framework"></a>SharePoint Framework
 
-Das SharePoint Framework (SPFx) ist ein Seiten- und Webpart-Modell, das vollständige Unterstützung für die clientseitige SharePoint-Entwicklung, einfache Integration in SharePoint-Daten und Unterstützung für Open-Source-Tools bietet. Mit dem SharePoint Framework können Sie moderne Webtechnologien und -tools in Ihrer bevorzugten Entwicklungsumgebung verwenden, um produktive Erfahrungen zu ermöglichen und Apps zu erstellen, die schnell reagieren und für Mobilgeräte geeignet sind.
+Das SharePoint-Framework (SPFx) ist ein Seiten- und Webpart-Modell, das vollständige Unterstützung für die clientseitige SharePoint-Entwicklung, einfache Integration in SharePoint-Daten und Support für Open-Source-Tools bietet. Mit dem SharePoint Framework können Sie moderne Webtechnologien und -tools in Ihrer bevorzugten Entwicklungsumgebung verwenden, um produktive Erfahrungen zu ermöglichen und Apps zu erstellen, die schnell reagieren und für Mobilgeräte geeignet sind.
 
 Wenn Ihre Sandbox automatisch so konfiguriert werden soll, dass verschiedene SharePoint-Vorlagen und -Szenarien ausprobiert werden können, installieren Sie das SharePoint-Beispieldatenpaket. Weitere Informationen erhalten Sie unter:
 
