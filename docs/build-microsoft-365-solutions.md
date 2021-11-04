@@ -2,12 +2,12 @@
 title: Verwenden Ihres Entwicklerabonnements zum Erstellen von Microsoft 365-Lösungen
 description: Verwenden Sie Ihr Microsoft 365 Developer-Abonnement, um die Lösungen zu erstellen, die Ihren Vorstellungen entsprechen.
 ms.localizationpriority: high
-ms.openlocfilehash: 4fc14896d3e0833f102cabc3152fb1e3a7884843
-ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
+ms.openlocfilehash: 3c03ccc44e4923631c12f09e58656845e5695d90
+ms.sourcegitcommit: cfa3f2fd7867c0f0118ac7f563b38af9a0b09024
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "59396676"
+ms.lasthandoff: 11/03/2021
+ms.locfileid: "60725020"
 ---
 # <a name="use-your-developer-subscription-to-build-microsoft-365-solutions"></a>Verwenden Ihres Entwicklerabonnements zum Erstellen von Microsoft 365-Lösungen
 
@@ -76,7 +76,7 @@ So richten Sie SharePoint-Add-Ins ein und beginnen mit der Codierung
 
 ## <a name="power-apps"></a>Power Apps
 
-Power Apps ist in Ihrer Microsoft 365 E5-Entwicklerabonnementlizenz enthalten. 
+Power Apps für Office 365 ist in Ihrer Microsoft 365 E5-Entwicklerabonnementlizenz enthalten. Dies bedeutet, dass Sie nicht getrennte Apps mit [Standardconnectors](https://docs.microsoft.com/connectors/connector-reference/connector-reference-standard-connectors) erstellen und testen können. Um [Premium-](https://docs.microsoft.com/connectors/connector-reference/connector-reference-premium-connectors) oder benutzerdefinierte Connectors und Dataverse verwenden zu können, benötigen Sie eine zusätzliche Lizenz. Zu Entwicklungs- und Testzwecken können Sie den [Power Apps-Entwicklerplan](https://powerapps.microsoft.com/developerplan) verwenden. 
 
 Power Apps ist eine Suite von Apps, Diensten, Connectors und Datenplattform, die eine schnelle Umgebung für die Anwendungsentwicklung bietet, um maßgeschneiderte Apps für Ihre geschäftlichen Anforderungen zu erstellen. Mithilfe von Power Apps können Sie schnell benutzerdefinierte Geschäfts-Apps erstellen, die eine Verbindung mit Ihren Geschäftsdaten herstellen, die entweder in der zugrunde liegenden Datenplattform (allgemeiner Datendienst) oder in verschiedenen Online- und lokalen Datenquellen (SharePoint, Microsoft 365, Dynamics 365, SQL Server usw.) gespeichert sind.
 
