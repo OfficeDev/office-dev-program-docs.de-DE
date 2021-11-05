@@ -2,12 +2,12 @@
 title: Verwenden von Beispieldatenpaketen mit Ihrem Abonnement für das Microsoft 365-Entwicklerprogramm
 description: Hier erfahren Sie, wie Sie Beispieldatenpakete in Ihrem Entwicklerabonnement für einen schnellen Einstieg in Ihre Sandboxumgebung installieren.
 ms.localizationpriority: high
-ms.openlocfilehash: 85bdbc5cbcb6daaf40beeef7e0138909361d6cd1
-ms.sourcegitcommit: cfa3f2fd7867c0f0118ac7f563b38af9a0b09024
+ms.openlocfilehash: 3548c050f346604b803dd4da7343a7ab8eb26075
+ms.sourcegitcommit: 6be0111c5e2a3f92db69de452bd20214b19ec5a1
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/03/2021
-ms.locfileid: "60725043"
+ms.lasthandoff: 11/05/2021
+ms.locfileid: "60793533"
 ---
 # <a name="developer-sandbox-sample-data"></a>Beispieldaten für die Entwickler-Sandbox
 
@@ -70,19 +70,19 @@ So installieren Sie das Beispieldatenpaket "Benutzer":
 3. Geben Sie Ihre Administrator-ID und das Kennwort auf der Anmeldeseite ein.
 4. Stimmen Sie den Berechtigungen als Administrator Ihres Microsoft 365 Developer-Abonnements zu.
 
-![Screenshot mit dem Dialogfeld zum Zustimmen zu den Berechtigungen](images/sample-data-pack-ux-tile-users-consent-with-permissions-combined.PNG)
+  ![Screenshot mit dem Dialogfeld zum Zustimmen zu den Berechtigungen](images/sample-data-pack-ux-tile-users-consent-with-permissions-combined.PNG)
 
 5. Konfigurieren Sie Kennwörter für alle Beispielbenutzer. Sie sollten ein gemeinsames Kennwort verwenden, um die Verwaltung ihrer fiktiven Benutzer zu erleichtern.
 
-![Screenshot des Dialogfelds zum Hinzufügen eines gemeinsamen Benutzerkennworts](images/sample-data-pack-ux-tile-users-fake-user-password-creation.PNG)
+  ![Screenshot des Dialogfelds zum Hinzufügen eines gemeinsamen Benutzerkennworts](images/sample-data-pack-ux-tile-users-fake-user-password-creation.PNG)
 
 6. Die Daten werden installiert. Die Installation dauert ca. fünf Minuten.
 
-![Screenshot des Installationsvorgangs auf der Dashboardkachel anzeigt](images/sample-data-pack-ux-tile-users-installing-status.PNG)
+  ![Screenshot des Installationsvorgangs auf der Dashboardkachel anzeigt](images/sample-data-pack-ux-tile-users-installing-status.PNG)
 
 7. Nach Abschluss der Installation werden Sie per E-Mail benachrichtigt, und das Feld auf der Kachel für Ihr Abonnement wird grün angezeigt. Jetzt können Sie das Beispieldatenpaket "E-Mails und Ereignisse" installieren.
 
-![Screenshot der Dashboard-Kachel mit Mail & Events bereit zur Installation](images/sample-data-pack-ux-tile-users-installed.PNG)
+  ![Screenshot der Dashboard-Kachel mit Mail & Events bereit zur Installation](images/sample-data-pack-ux-tile-users-installed.PNG)
 
 ### <a name="install-the-mail--events-sample-data-pack"></a>Beispieldatenpaket Mail & Events installieren
 
@@ -91,10 +91,10 @@ Nachdem Sie das Beispieldatenpaket "Benutzer" installiert haben, können Sie "E-
 1. Wählen Sie auf der Kachel für Ihr Abonnement das Feld **E-Mails &amp; Ereignisse** aus.
 2. Wählen Sie **Installieren** aus, um mit der Installation zu beginnen.
 
-![Screenshot des Dialogfelds zum Installieren](images/sample-data-pack-ux-tile-mail-and-events-begin-install.PNG)
+  ![Screenshot des Dialogfelds zum Installieren](images/sample-data-pack-ux-tile-mail-and-events-begin-install.PNG)
 
-> [!NOTE]
-> Wenn Sie Ihr Abonnement soeben erstellt haben, muss es vollständig bereitgestellt sein, bevor die Installation beginnen kann. Dies kann bis zu einigen Stunden dauern. Nach Beginn der Installation kann es bis zu 20 Minuten dauern, bis der Vorgang abgeschlossen ist.
+  > [!NOTE]
+  > Wenn Sie Ihr Abonnement soeben erstellt haben, muss es vollständig bereitgestellt sein, bevor die Installation beginnen kann. Dies kann bis zu einigen Stunden dauern. Nach Beginn der Installation kann es bis zu 20 Minuten dauern, bis der Vorgang abgeschlossen ist.
 
 3. Nach Abschluss der Installation werden Sie per E-Mail benachrichtigt, und das Feld auf der Kachel für Ihr Abonnement wird grün angezeigt.
 

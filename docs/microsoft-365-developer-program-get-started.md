@@ -3,12 +3,12 @@ title: Einrichten eines Microsoft 365-Entwickler-Sandboxabonnements
 description: Richten Sie ein Microsoft 365-Entwicklerabonnement ein, um unabhängig von Ihrer Produktionsumgebung Lösungen zu entwickeln.
 ms.date: 04/01/2019
 ms.localizationpriority: high
-ms.openlocfilehash: 8671c4df2866ebe6adeef8ade428472ec850cd47
-ms.sourcegitcommit: cfa3f2fd7867c0f0118ac7f563b38af9a0b09024
+ms.openlocfilehash: b21d725c158a607df247084fa99c4547f2989e31
+ms.sourcegitcommit: 6be0111c5e2a3f92db69de452bd20214b19ec5a1
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/03/2021
-ms.locfileid: "60724844"
+ms.lasthandoff: 11/05/2021
+ms.locfileid: "60793526"
 ---
 # <a name="set-up-a-microsoft-365-developer-sandbox-subscription"></a>Einrichten eines Microsoft 365-Entwickler-Sandboxabonnements 
 
@@ -25,6 +25,8 @@ Wenn Sie sich für eine Instant-Sandbox entscheiden, können Sie die Konfigurati
 
 Darüber hinaus erhalten Sie vorinstallierte Beispieldaten, einschließlich des neuen Teams-Beispieldatenpakets mit Microsoft Graph-Benutzer-, E-Mail- und Kalenderdaten sowie SharePoint-Framework-Beispieldaten. Dieses Paket simuliert eine kleine Unternehmensumgebung, um Sie beim Erstellen von Lösungen auf der Microsoft 365-Plattform zu unterstützen. Ausführliche Informationen finden Sie in den „Beispieldaten zur Entwickler-Sandbox“.
 
+> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RWOmCY]
+
 Sie können Ihren Domänennamen nicht anpassen, wenn Sie diese Option auswählen.
 
 ## <a name="configurable-sandbox"></a>Konfigurierbare Sandbox
@@ -39,14 +41,14 @@ So erhalten Sie ein Microsoft 365-Entwicklerabonnement:
 
 2. Wählen Sie im Dialogfeld **Microsoft 365 E5-Entwicklerabonnement einrichten** aus, ob Sie eine Instant-Sandbox oder eine konfigurierbare Sandbox verwenden möchten, und klicken Sie dann auf **Weiter**.
 
-  ![Screenshot des Dialogfelds „Microsoft 365 E5-Entwicklerabonnement einrichten“](images/set-up-your-subscription.png)
+    ![Screenshot des Dialogfelds „Microsoft 365 E5-Entwicklerabonnement einrichten“](images/set-up-your-subscription.png)
 
 Wenn Sie eine Instant-Sandbox ausgewählt haben:
 
 1.  Wählen Sie das **Land bzw. die Region für Ihr Rechenzentrum** aus, geben Sie einen **Administratorbenutzernamen** und ein **Administratorkennwort** sowie optional ein alternatives Kennwort für Ihre fiktiven Benutzer an, und wählen Sie dann **Weiter** aus.
 
-  > [!IMPORTANT] 
-  > Notieren Sie Ihren Benutzernamen und das Kennwort, da Sie dies für den Zugriff auf Ihr Entwicklerabonnement benötigen.
+    > [!IMPORTANT] 
+    > Notieren Sie Ihren Benutzernamen und das Kennwort, da Sie dies für den Zugriff auf Ihr Entwicklerabonnement benötigen.
 
 2.  Geben Sie eine gültige Mobiltelefonnummer an, und wählen Sie **Code senden** aus. Geben Sie den Code ein, den Sie erhalten, und klicken Sie dann auf **Einrichten**.
 3.  Nachdem das Abonnement erstellt wurde, werden der Domänenname und das Ablaufdatum des Abonnements auf Ihrer Profilseite angezeigt.
@@ -55,8 +57,8 @@ Wenn Sie eine konfigurierbare Sandbox ausgewählt haben:
 
 1.  Wählen Sie Ihr **Land bzw. Ihre Region** aus, und geben Sie einen Benutzernamen im Feld **Benutzernamen erstellen** sowie einen Domänennamen im Feld **Domäne erstellen** an. Erstellen und bestätigen Sie Ihr Kennwort, und wählen Sie dann **Weiter** aus.
 
-  > [!IMPORTANT] 
-  > Notieren Sie Ihren Benutzernamen und das Kennwort, da Sie dies für den Zugriff auf Ihr Entwicklerabonnement benötigen.
+    > [!IMPORTANT] 
+    > Notieren Sie Ihren Benutzernamen und das Kennwort, da Sie dies für den Zugriff auf Ihr Entwicklerabonnement benötigen.
 
 2.  Geben Sie eine gültige Mobiltelefonnummer an, und wählen Sie **Code senden** aus. Geben Sie den Code ein, den Sie erhalten, und klicken Sie dann auf **Einrichten**.
 3.  Nachdem das Abonnement erstellt wurde, werden der Domänenname und das Ablaufdatum des Abonnements auf Ihrer Profilseite angezeigt.
@@ -79,8 +81,8 @@ Wenn Sie eine konfigurierbare Sandbox ausgewählt haben:
 
 6. **Fügen Sie neue Benutzer hinzu**. Sie können fiktive oder echte Benutzer hinzufügen, um die Entwicklung zu erleichtern. Wenn Sie bereit sind, wählen Sie **Benutzer hinzufügen und Lizenzen zuweisen** aus.
     
-  > [!NOTE]
-  > Wenn Sie über ein konfigurierbares Abonnement verfügen, können Sie nach dem Einrichten Ihres Abonnements das Beispieldatenpaket „Benutzer“ installieren. Das Beispieldatenpaket "Benutzer" erstellt in Ihrem Abonnement 16 Beispielbenutzer, einschließlich der Lizenzen sowie Postfächer, Namen, Metadaten und Fotos für jeden Benutzer. Ausführliche Informationen finden Sie unter [Beispieldaten zur Entwickler-Sandbox](install-sample-packs.md).
+    > [!NOTE]
+    > Wenn Sie über ein konfigurierbares Abonnement verfügen, können Sie nach dem Einrichten Ihres Abonnements das Beispieldatenpaket „Benutzer“ installieren. Das Beispieldatenpaket "Benutzer" erstellt in Ihrem Abonnement 16 Beispielbenutzer, einschließlich der Lizenzen sowie Postfächer, Namen, Metadaten und Fotos für jeden Benutzer. Ausführliche Informationen finden Sie unter [Beispieldaten zur Entwickler-Sandbox](install-sample-packs.md).
 
 6. **Zuweisen von Lizenzen zu nicht lizenzierten Benutzer**. Erteilen Sie allen Benutzern, mit denen Sie mit dem Abonnement zusammenarbeiten möchten, eine Lizenz. Wenn Sie bereit sind, wählen Sie **Benutzer hinzufügen und Lizenzen zuweisen** oder **Später erledigen** aus.
 
