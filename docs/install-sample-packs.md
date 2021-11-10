@@ -2,18 +2,20 @@
 title: Verwenden von Beispieldatenpaketen mit Ihrem Abonnement für das Microsoft 365-Entwicklerprogramm
 description: Hier erfahren Sie, wie Sie Beispieldatenpakete in Ihrem Entwicklerabonnement für einen schnellen Einstieg in Ihre Sandboxumgebung installieren.
 ms.localizationpriority: high
-ms.openlocfilehash: 3548c050f346604b803dd4da7343a7ab8eb26075
-ms.sourcegitcommit: 6be0111c5e2a3f92db69de452bd20214b19ec5a1
+ms.openlocfilehash: 9031992701203438c26ffe3266d59932c370105f
+ms.sourcegitcommit: ff0cbb1c2c58aca2b50335d957b30495c8e90486
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/05/2021
-ms.locfileid: "60793533"
+ms.lasthandoff: 11/10/2021
+ms.locfileid: "60889454"
 ---
 # <a name="developer-sandbox-sample-data"></a>Beispieldaten für die Entwickler-Sandbox
 
 Ihr Sandbox-Abonnement für das Microsoft 365-Entwicklerprogramm enthält Beispieldaten, mit denen Sie Zeit sparen können, indem Sie Daten und Inhalte bereitstellen, die Sie zum Erstellen und Testen Ihrer Lösungen benötigen.
 
 ![Screenshot der Schaltflächen für das Beispieldatenpaket](images/sample-data-packs.PNG)
+
+## <a name="sample-data-installed-on-the-instant-sandbox"></a>In der Instant-Sandbox installierte Beispieldaten
 
 Wenn Sie über eine Instant-Sandbox verfügen, sind die Beispieldatenpakete bereits vorinstalliert. Ihre Instant-Sandbox enthält die folgenden Beispieldaten:
 
@@ -26,12 +28,12 @@ Wenn Sie über eine Instant-Sandbox verfügen, sind die Beispieldatenpakete bere
     ![Screenshot des Teams-Entwicklerportals](images/teams-developer-portal.PNG)
 - **SharePoint-Framework Beispieldaten** – Wählen Sie aus sechs Sitevorlagen, die Sie als benutzerdefinierte Lösungen für Ihr Unternehmen installieren und auswerten können (wobei eine vorinstalliert ist).
 
+## <a name="install-sample-data-packs-in-your-configurable-sandbox"></a>Installieren von Beispieldatenpakete in Ihrer konfigurierbaren Sandbox
+
 Wenn Sie über eine konfigurierbare Sandbox verfügen, können Sie die Beispieldaten schnell installieren, sodass Sie sich auf Ihre Lösungen konzentrieren können, anstatt selbst Zeit mit der Erstellung von Beispieldaten zu verbringen.
 
 > [!NOTE] 
 > Sie können keine Beispieldatenpakete in einem anderen Microsoft 365-Abonnement installieren. Diese Beispieldatenpakete sind nur mit dem Microsoft 365-Entwickler-Sandbox-Abonnement kompatibel, das Sie im Rahmen des Microsoft 365-Entwicklerprogramms erhalten.
-
-## <a name="install-sample-data-packs-in-your-configurable-sandbox"></a>Installieren von Beispieldatenpakete in Ihrer konfigurierbaren Sandbox
 
 Beispieldatenpakete finden Sie im [Dashboard des Microsoft 365-Entwicklerprogramms](https://developer.microsoft.com/microsoft-365/profile) am unteren Rand der Kachel für Ihr Abonnement.
 

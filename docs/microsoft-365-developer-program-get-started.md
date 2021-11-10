@@ -3,12 +3,12 @@ title: Einrichten eines Microsoft 365-Entwickler-Sandboxabonnements
 description: Richten Sie ein Microsoft 365-Entwicklerabonnement ein, um unabhängig von Ihrer Produktionsumgebung Lösungen zu entwickeln.
 ms.date: 04/01/2019
 ms.localizationpriority: high
-ms.openlocfilehash: b21d725c158a607df247084fa99c4547f2989e31
-ms.sourcegitcommit: 6be0111c5e2a3f92db69de452bd20214b19ec5a1
+ms.openlocfilehash: 57fc33880f2df4e43bf79d17a2280ea3e7853561
+ms.sourcegitcommit: ff0cbb1c2c58aca2b50335d957b30495c8e90486
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/05/2021
-ms.locfileid: "60793526"
+ms.lasthandoff: 11/10/2021
+ms.locfileid: "60889447"
 ---
 # <a name="set-up-a-microsoft-365-developer-sandbox-subscription"></a>Einrichten eines Microsoft 365-Entwickler-Sandboxabonnements 
 
@@ -51,6 +51,10 @@ Wenn Sie eine Instant-Sandbox ausgewählt haben:
     > Notieren Sie Ihren Benutzernamen und das Kennwort, da Sie dies für den Zugriff auf Ihr Entwicklerabonnement benötigen.
 
 2.  Geben Sie eine gültige Mobiltelefonnummer an, und wählen Sie **Code senden** aus. Geben Sie den Code ein, den Sie erhalten, und klicken Sie dann auf **Einrichten**.
+
+    > [!NOTE] 
+    > Sie müssen eine gültige Mobiltelefonnummer verwenden und dürfen nicht über Sprachtelefonie über IP (VoIP) anrufen.
+
 3.  Nachdem das Abonnement erstellt wurde, werden der Domänenname und das Ablaufdatum des Abonnements auf Ihrer Profilseite angezeigt.
 
 Wenn Sie eine konfigurierbare Sandbox ausgewählt haben:
