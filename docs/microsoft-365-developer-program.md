@@ -2,12 +2,12 @@
 title: Willkommen beim Microsoft 365-Entwicklerprogramm
 description: Treten Sie dem Microsoft 365-Entwicklerprogramm bei, um unabhängig von Ihrer Produktionsumgebung Microsoft 365-Lösungen zu entwickeln.
 ms.localizationpriority: high
-ms.openlocfilehash: 6694e1d3f31ea8f52b537707a44f251a895eb85e
-ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
+ms.openlocfilehash: 2294565eb909f5fddcf69ddf3d70a3684df4f23b
+ms.sourcegitcommit: a9d1dcc5aa7e2f2178aed640eb5f44d442b47410
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "59396693"
+ms.lasthandoff: 05/27/2022
+ms.locfileid: "65751502"
 ---
 # <a name="welcome-to-the-microsoft-365-developer-program"></a>Willkommen beim Microsoft 365-Entwicklerprogramm
 

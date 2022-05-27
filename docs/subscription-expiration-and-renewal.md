@@ -3,16 +3,16 @@ title: Microsoft 365-Entwicklerprogramm – Ablauf und Verlängerung des Abonnem
 description: Informationen zur Verlängerung eines ablaufenden Entwicklerabonnements.
 ms.date: 04/01/2019
 ms.localizationpriority: high
-ms.openlocfilehash: afb5c197a83c7776c77ea766c3c6f51233497e9a
-ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
+ms.openlocfilehash: ddc03b8c1c7f1284fd557e2f5c11b95dec034825
+ms.sourcegitcommit: a9d1dcc5aa7e2f2178aed640eb5f44d442b47410
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "59396714"
+ms.lasthandoff: 05/27/2022
+ms.locfileid: "65751516"
 ---
 # <a name="microsoft-365-developer-program-subscription-expiration-and-renewal"></a>Microsoft 365-Entwicklerprogramm – Ablauf und Verlängerung des Abonnements
 
-Ihre Mitgliedschaft im Microsoft 365-Entwicklerprogramm beinhaltet ein kostenloses Office 365 E3-oder Microsoft 365 E5-Entwicklerabonnement. Ihr Entwicklerabonnement ist je nach Entwicklungsaktivität verlängerbar; einige ältere Abonnements laufen jedoch aus. Dieser Artikel beschreibt den Unterschied zwischen verlängerbaren und nicht verlängerbaren Abonnements und wie Sie Ihr Abonnement aktualisieren können, wenn es abläuft.
+Ihre Mitgliedschaft im Microsoft 365-Entwicklerprogramm beinhaltet ein kostenloses Microsoft 365 E5-Entwicklerabonnement. Ihr Entwicklerabonnement ist je nach Entwicklungsaktivität verlängerbar; einige ältere Abonnements laufen jedoch aus. Dieser Artikel beschreibt den Unterschied zwischen verlängerbaren und nicht verlängerbaren Abonnements und wie Sie Ihr Abonnement aktualisieren können, wenn es abläuft.
 
 ## <a name="expiring-vs-renewable-developer-subscriptions"></a>Ablaufende im Vergleich zu verlängerbaren Entwicklerabonnements
 
