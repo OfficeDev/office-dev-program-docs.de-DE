@@ -2,12 +2,12 @@
 title: Verwenden von Beispieldatenpaketen mit Ihrem Abonnement für das Microsoft 365-Entwicklerprogramm
 description: Hier erfahren Sie, wie Sie Beispieldatenpakete in Ihrem Entwicklerabonnement für einen schnellen Einstieg in Ihre Sandboxumgebung installieren.
 ms.localizationpriority: high
-ms.openlocfilehash: 9031992701203438c26ffe3266d59932c370105f
-ms.sourcegitcommit: ff0cbb1c2c58aca2b50335d957b30495c8e90486
+ms.openlocfilehash: a9d93e75b23e08ad49c960e0d4f1559e33193f5e
+ms.sourcegitcommit: 088cfc887d4638d9be44cdd58ff5550a6564314c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/10/2021
-ms.locfileid: "60889454"
+ms.lasthandoff: 07/16/2022
+ms.locfileid: "66827297"
 ---
 # <a name="developer-sandbox-sample-data"></a>Beispieldaten für die Entwickler-Sandbox
 
@@ -104,7 +104,7 @@ Nachdem Sie das Beispieldatenpaket "Benutzer" installiert haben, können Sie "E-
 
 Das SharePoint-Beispieldatenpaket enthält sechs verschiedene SharePoint-Sitevorlagen zur Auswahl, um SharePoint-Lösungen für Zusammenarbeit, Kommunikation, Engagement und Wissensmanagement zu erleben und zu modellieren.
 
-Dies sind einige der beliebtesten Vorlagen aus dem [SharePoint PnP-Look Book](https://provisioning.sharepointpnp.com/). Heute ist es einfach, Beispiellösungen für schöne, schnelle Sites und Seiten zu erstellen, die auf jedem Gerät oder Bildschirm perfekt dargestellt werden. Lassen Sie sich von diesen Designs inspirieren, oder fügen Sie sie Ihrem Sandkasten-Mandanten hinzu, um mit dem Erstellen Ihrer nächsten Site zu beginnen.
+Dies sind einige der beliebtesten Vorlagen aus dem [SharePoint PnP-Look Book](https://lookbook.microsoft.com). Heute ist es einfach, Beispiellösungen für schöne, schnelle Sites und Seiten zu erstellen, die auf jedem Gerät oder Bildschirm perfekt dargestellt werden. Lassen Sie sich von diesen Designs inspirieren, oder fügen Sie sie Ihrem Sandkasten-Mandanten hinzu, um mit dem Erstellen Ihrer nächsten Site zu beginnen.
 
 Die Vorlagen können im Rahmen Ihres Abonnements installiert werden. Nachdem Sie eine Vorlage installiert haben, haben Sie die Möglichkeit, die anderen zu installieren. Der Installationsprozess umfasst die folgenden Schritte:
 
