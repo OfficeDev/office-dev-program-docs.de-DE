@@ -2,12 +2,12 @@
 title: Verwenden Ihres Entwicklerabonnements zum Erstellen von Microsoft 365-Lösungen
 description: Verwenden Sie Ihr Microsoft 365 Developer-Abonnement, um die Lösungen zu erstellen, die Ihren Vorstellungen entsprechen.
 ms.localizationpriority: high
-ms.openlocfilehash: 3c03ccc44e4923631c12f09e58656845e5695d90
-ms.sourcegitcommit: cfa3f2fd7867c0f0118ac7f563b38af9a0b09024
+ms.openlocfilehash: 75dab54d4dada18663eed11b3ed6a937a3d753cd
+ms.sourcegitcommit: 088cfc887d4638d9be44cdd58ff5550a6564314c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/03/2021
-ms.locfileid: "60725020"
+ms.lasthandoff: 07/16/2022
+ms.locfileid: "66827290"
 ---
 # <a name="use-your-developer-subscription-to-build-microsoft-365-solutions"></a>Verwenden Ihres Entwicklerabonnements zum Erstellen von Microsoft 365-Lösungen
 
@@ -97,3 +97,4 @@ Weitere Informationen:
 - [Einrichten eines Microsoft 365 Developer-Abonnements](microsoft-365-developer-program-get-started.md) 
 - [Verlängern eines ablaufenden Abonnements](subscription-expiration-and-renewal.md)
 - [Häufig gestellte Fragen zum Microsoft 365-Entwicklerprogramm](microsoft-365-developer-program-faq.yml)
+- [Microsoft 365-Entwicklerdokumentation](/microsoft-365/developer)
