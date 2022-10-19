@@ -4,12 +4,12 @@ metadata:
   description: Häufig gestellte Fragen zum Microsoft 365-Entwicklerprogramm.
   ms.date: 04/01/2019
   ms.localizationpriority: high
-  ms.openlocfilehash: c38ca01848531ee656242f2cba6a005277dd714f
-  ms.sourcegitcommit: efbf5fcede882e7f333b3c6aa95d2fc30f7adafc
+  ms.openlocfilehash: 101afeb133b66641733573bc033ef1762162d839
+  ms.sourcegitcommit: b10b392973a9eb8636ce4f1994c3bdbed000411c
   ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 09/14/2022
-  ms.locfileid: "67675512"
+  ms.lasthandoff: 10/13/2022
+  ms.locfileid: "68570600"
 title: Häufig gestellte Fragen zum Microsoft 365-Entwicklerprogramm
 summary: Nachfolgend finden Sie häufig gestellte Fragen zum Microsoft 365-Entwicklerprogramm.
 sections:
@@ -70,7 +70,7 @@ sections:
     answer: "Im April 2019 haben wir zu einem neuen Modell gewechselt, bei dem Ihr Abonnement alle 90 Tage erneuert werden kann, wenn Sie es aktiv für die Entwicklung nutzen. Wir sind der Meinung, dass dieses Modell sicherstellt, dass Entwicklern, die aktiv Lösungen entwickeln, ein Abonnement zur Verfügung steht, solange sie es benötigen. Wenn Sie häufig entwickeln, läuft Ihr Abonnement nie ab; es wird automatisch verlängert. Wenn Sie für kurze Zeit entwickeln und Ihr Abonnement abläuft und gelöscht wird, können Sie sich für ein neues Abonnement anmelden. \n\nWenn Sie ein Abonnement bevorzugen, das für eine längere Zeit verfügbar ist, empfehlen wir Ihnen, das Abonnement für Visual Studio Professional oder Visual Studio Enterprise zu erwerben. Diese Programme enthalten ein kostenloses Microsoft 365 Developer-Abonnement, das für die Dauer Ihres Visual Studio-Abonnements gültig ist. Um darauf zuzugreifen, navigieren Sie zu [Visual Studio | Meine Vorteile ](https://my.visualstudio.com/benefits). Weitere Informationen erhalten Sie unter [Visual Studio-Kundendienst](https://www.visualstudio.com/subscriptions/support/). \n"
   - question: >
       Wie stellen Sie fest, ob ein Abonnement verlängert werden kann?
-    answer: "Wir verwenden eine Reihe von Algorithmen und Telemetrie, die wir aus Ihrer Tätigkeit im Microsoft 365-Entwicklerprogramm und in Ihrem Office 365 E3- oder Microsoft 365 E5-Entwicklerabonnement erhalten, um zu ermitteln, ob Sie aktiv entwickeln. Wir überprüfen diese regelmäßig, um Ihren Status zu aktualisieren und zu bestimmen, ob Ihr Abonnement verlängert werden sollte. \n\nWenn Sie der Meinung sind, dass wir Ihre Entwicklungsaktivitäten aus irgendeinem Grund nicht genau verfolgt haben, können Sie uns dies über Ihr Dashboard mitteilen. Um ein Formular einzureichen, das uns mitteilt, wie Sie Ihr Abonnement für die Entwicklung verwenden, wählen Sie in der Dashboard-Warnung den Link **Informieren Sie uns**, wie im folgenden Bild gezeigt. Wir überprüfen Ihre Anforderung und lassen Sie wissen, ob Sie sich für eine Verlängerung qualifizieren. \n\n<img alt=\"Screenshot of the subscription expiration text box with the let us know link highlighted\" src=\"images/appeals-ux-for-qa.jpg\" width=\"500\"> \n"
+    answer: "We use a set of algorithms and telemetry that we get from your activity in the Microsoft 365 Developer Program and on your Office 365 E3 or Microsoft 365 E5 developer subscription to determine whether you are actively developing. We check these regularly to update your status and determine whether your subscription should be extended. \n\nWenn Sie der Meinung sind, dass wir Ihre Entwicklungsaktivitäten aus irgendeinem Grund nicht genau verfolgt haben, können Sie uns dies über Ihr Dashboard mitteilen. Um ein Formular einzureichen, das uns mitteilt, wie Sie Ihr Abonnement für die Entwicklung verwenden, wählen Sie in der Dashboard-Warnung den Link **Informieren Sie uns**, wie im folgenden Bild gezeigt. Wir überprüfen Ihre Anforderung und lassen Sie wissen, ob Sie sich für eine Verlängerung qualifizieren. \n\n<img alt=\"Screenshot of the subscription expiration text box with the let us know link highlighted\" src=\"images/appeals-ux-for-qa.jpg\" width=\"500\"> \n"
   - question: >
       Wie definieren Sie Entwicklungsaktivität?
     answer: "Ihre Aktivitäten im Entwicklerprogramm und in Ihrem Entwicklerabonnement bestimmen, ob Sie aktiv entwickeln und ob Ihr Abonnement verlängert werden sollte. \n\nWeitere Informationen dazu, welche Arten von Aktivitäten wir verfolgen, finden Sie unter [Nutzungsbedingungen](terms-and-conditions.md). \n"
@@ -80,13 +80,13 @@ sections:
   - question: >
       Wenn mein Abonnement abläuft, wie viel Zeit habe ich, bevor es gelöscht wird?
     answer: >
-      Nach Ablauf Ihres Abonnements haben Sie 30 Tage Zeit, um Daten zu migrieren. In den nächsten 30 Tagen hat nur der Administrator Zugriff auf das Abonnement und am 60. Tag werden das Abonnement und alle Daten gelöscht.
+      You have 30 days after your subscription expires to migrate any data. For the next 30 days, only the admin will have access to the subscription, and on day 60, the subscription and all data will be deleted.
 
 
       <a name="account-types"> </a>
   - question: >
       Wie kann ich von einem Office 365 E3-Abonnement zu einem Microsoft 365 E5-Abonnement migrieren?
-    answer: "Aktuell erhalten nur neue Mitglieder des Microsoft 365-Entwicklerprogramms automatisch ein Microsoft 365 E5-Entwicklerabonnement. Vorhandenen Benutzern wird eine Option zum Migrieren zu einem Microsoft 365 E5-Abonnement angeboten. \n\nWenn Sie sich für die Migration zu einem Microsoft 365 E5-Abonnement entscheiden, können Sie das kostenlose Tool [Microsoft Mover](https://mover.io/) verwenden, um Ihre Daten zu migrieren. Siehe auch die folgenden Ressourcen:\n\n- [Migrieren von Postfächern von einem Microsoft 365-Mandanten zu einem anderen](https://docs.microsoft.com/en-us/exchange/mailbox-migration/migrate-mailboxes-across-tenants)\n- [Verwenden von PowerShell zum Durchführen einer mehrstufigen Migration zu Office 365](https://docs.microsoft.com/en-us/microsoft-365/enterprise/use-powershell-to-perform-a-staged-migration-to-microsoft-365?view=o365-worldwide)\n- [Migrieren Ihrer Inhalte zu Microsoft 365](https://docs.microsoft.com/en-us/sharepointmigration/migrate-to-sharepoint-online).\n"
+    answer: "Aktuell erhalten nur neue Mitglieder des Microsoft 365-Entwicklerprogramms automatisch ein Microsoft 365 E5-Entwicklerabonnement. Vorhandenen Benutzern wird eine Option zum Migrieren zu einem Microsoft 365 E5-Abonnement angeboten. \n\nWenn Sie sich für die Migration zu einem Microsoft 365 E5-Abonnement entscheiden, können Sie das kostenlose Tool [Microsoft Mover](https://mover.io/) verwenden, um Ihre Daten zu migrieren. Siehe auch die folgenden Ressourcen:\n\n- [Migrieren von Postfächern von einem Microsoft 365-Mandanten zu einem anderen](/exchange/mailbox-migration/migrate-mailboxes-across-tenants)\n- [Verwenden von PowerShell zum Durchführen einer mehrstufigen Migration zu Office 365](/microsoft-365/enterprise/use-powershell-to-perform-a-staged-migration-to-microsoft-365?view=o365-worldwide)\n- [Migrieren Ihrer Inhalte zu Microsoft 365](/sharepointmigration/migrate-to-sharepoint-online).\n"
   - question: >
       Sollte ich eine Sofort-Sandbox oder eine konfigurierbare Sandbox auswählen?
     answer: "Wenn Sie sich für eine Instant-Sandbox entscheiden, können Sie die Konfigurationszeit für Ihre Sandbox von Tagen auf Sekunden verkürzen. Die Instant-Sandbox von Microsoft 365 wird mit Microsoft Teams, SharePoint, Outlook und Office vorab bereitgestellt. Sie umfasst auch Lizenzen für 24 Testbenutzer plus einen Administrator und die aktuellen Microsoft 365-Apps für Ihren PC und Mac, einschließlich Power Apps, Power BI, Enterprise Mobility + Security, Office 365 Advanced Threat Protection und Azure Active Directory.\n\nDarüber hinaus erhalten Sie vorinstallierte Beispieldaten, einschließlich des neuen Teams-Beispieldatenpakets, das eine kleine Unternehmensumgebung simuliert, die Ihnen beim Erstellen von Lösungen auf der Microsoft 365-Plattform hilft. Ausführliche Informationen finden Sie in den „Beispieldaten zur Entwickler-Sandbox“.\n\nWenn Sie eine konfigurierbare Sandbox auswählen, verfügen Sie über einen leeren Sandkasten, den Sie mit Beispieldaten füllen müssen. Die Bereitstellung dieser Sandbox kann bis zu zwei Tage dauern. Sie können die Beispieldatenpakete installieren, die in Ihrem Entwicklerprogramm-Dashboard verfügbar sind. Mit dieser Option können Sie Ihren Domänennamen anpassen. \n"
@@ -103,7 +103,7 @@ sections:
   - question: >
       Unterliegt das Microsoft 365-Entwicklerabonnement der EU-Datengrenze für die Microsoft-Cloud (EUDB)?
     answer: >
-      Nein. Das kostenlose Microsoft 365-Entwicklerabonnement unterliegt nur den [Allgemeinen Geschäftsbedingungen und](terms-and-conditions.md) nicht den EUDB-Verpflichtungen. Im Rahmen des Bereitstellungsprozesses haben Sie jedoch die Möglichkeit, das Land/die Region für Ihr Abonnement auszuwählen.
+      Nein Das kostenlose Microsoft 365-Entwicklerabonnement unterliegt nur den [Allgemeinen Geschäftsbedingungen und](terms-and-conditions.md) nicht den EUDB-Verpflichtungen. Im Rahmen des Bereitstellungsprozesses haben Sie jedoch die Möglichkeit, das Land/die Region für Ihr Abonnement auszuwählen.
   - question: "Kann ich als Microsoft-Partner ein Abonnement erhalten? \n"
     answer: "Ja, Sie können die [folgenden Anweisungen](microsoft-365-developer-program.md) befolgen, um am Microsoft 365-Entwicklerprogramm teilzunehmen und ein Microsoft 365 Developer-Abonnement einzurichten. Wenn Sie jedoch bereits über ein Abonnement von Visual Studio Enterprise oder Visual Studio Professional verfügen, können Sie zusätzlich ein Microsoft 365-Entwicklerabonnement erhalten. Um darauf zuzugreifen, navigieren Sie zu [Visual Studio | Meine Vorteile ](https://my.visualstudio.com/benefits). Weitere Informationen erhalten Sie unter [Visual Studio-Kundendienst](https://www.visualstudio.com/subscriptions/support/). \n"
   - question: >
@@ -138,7 +138,7 @@ sections:
       3. Wählen Sie im Bestätigungsfeld **Profil löschen** die Option **Löschen** aus.
   - question: >
       Support
-    answer: "Wenn Sie Probleme beim Einrichten Ihres Abonnements haben, sehen Sie sich die folgenden Supportressourcen an:\n\n- [Stack Overflow](https://stackoverflow.com/questions)   \n- [Visual Studio-Kundendienst](https://www.visualstudio.com/subscriptions/support/)\n"
+    answer: "Wenn Sie Probleme beim Einrichten Ihres Abonnements haben, lesen Sie die folgende Supportressource:\n\n- [Stack Overflow](https://stackoverflow.com/questions)   \n"
   - question: >
       Weitere Artikel
     answer: >-
