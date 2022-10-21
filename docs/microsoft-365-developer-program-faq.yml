@@ -4,12 +4,12 @@ metadata:
   description: Häufig gestellte Fragen zum Microsoft 365-Entwicklerprogramm.
   ms.date: 04/01/2019
   ms.localizationpriority: high
-  ms.openlocfilehash: 101afeb133b66641733573bc033ef1762162d839
-  ms.sourcegitcommit: b10b392973a9eb8636ce4f1994c3bdbed000411c
+  ms.openlocfilehash: af9cec4b336ffaf68b3ca1f56d61f7f2776ed987
+  ms.sourcegitcommit: e6e6f15ad3f9ce28310a7c8cec87402335bde388
   ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 10/13/2022
-  ms.locfileid: "68570600"
+  ms.lasthandoff: 10/21/2022
+  ms.locfileid: "68667292"
 title: Häufig gestellte Fragen zum Microsoft 365-Entwicklerprogramm
 summary: Nachfolgend finden Sie häufig gestellte Fragen zum Microsoft 365-Entwicklerprogramm.
 sections:
@@ -56,8 +56,11 @@ sections:
     answer: >
       In Exchange Online werden eingehende Connectors für den E-Mail-Fluss nicht unterstützt. Wenn Sie versuchen, einen eingehenden Connector zu erstellen, wird die folgende Fehlermeldung angezeigt: "Fehler beim Ausführen der Anforderung. Für dieses Dienstangebot können Sie in Ihrer Organisation keine eingehenden Connectors erstellen oder aktualisieren."
   - question: >
+      Ich kann mich nicht mit meinem Administratorkonto bei meinem Chatsandkasten anmelden. Wie gehe ich vor?
+    answer: "Wenn Sie Ihren Chatsandkasten am oder nach dem 30. September 2022 einrichten, ist Ihre Möglichkeit, sich mit Ihrem Administratorkonto anzumelden, möglicherweise abgelaufen. In diesem Fall haben wir Ihre Sofort-Sandbox bereits abgelaufen, und Sie müssen eine neue einrichten. Wechseln Sie zu Ihrem [Microsoft 365-Entwicklerprogrammdashboard](https://aka.ms/DevProgramDashboard), melden Sie sich mit Ihrem Entwicklerprogrammkonto an, und wählen Sie **\"Abonnement einrichten\" aus** , um Ihre neue Instant Sandbox zu erhalten.  \n\nNachdem Sie Ihre neue Instant Sandbox eingerichtet haben, melden Sie sich innerhalb von 14 Tagen mit Ihrem Administratorkonto an.\n"
+  - question: >
       Umfasst das Abonnement auch ein Abonnement für Azure?
-    answer: "Dieses Angebot schließt kein Abonnement für Azure ein. Um aber kostenlosen Zugriff auf Azure-Dienste zu erhalten, können Sie [ein kostenloses Azure-Konto erstellen](https://azure.microsoft.com/free/). \n"
+    answer: "Dieses Angebot schließt kein Abonnement für Azure ein. Kommerzielle Transaktionen, z. B. der Kauf zusätzlicher kostenpflichtiger Dienste, werden in Ihrem Microsoft 365-Entwicklerprogrammabonnement nicht unterstützt. sie dient nur zum Entwickeln und Testen Ihrer Lösungen. \n\nUm kostenlosen Zugriff auf Azure-Dienste zu erhalten, können Sie [ein kostenloses Azure-Konto erstellen](https://azure.microsoft.com/free/). \n"
   - question: >
       Wie viele Benutzerlizenzen enthält das Entwicklerabonnement?
     answer: >

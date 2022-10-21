@@ -3,16 +3,16 @@ title: Einrichten eines Microsoft 365-Entwickler-Sandboxabonnements
 description: Richten Sie ein Microsoft 365-Entwicklerabonnement ein, um unabhängig von Ihrer Produktionsumgebung Lösungen zu entwickeln.
 ms.date: 04/01/2019
 ms.localizationpriority: high
-ms.openlocfilehash: 57fc33880f2df4e43bf79d17a2280ea3e7853561
-ms.sourcegitcommit: ff0cbb1c2c58aca2b50335d957b30495c8e90486
-ms.translationtype: HT
+ms.openlocfilehash: f28b37a1d3c9e5ae335695f9a5473feb40404172
+ms.sourcegitcommit: e6e6f15ad3f9ce28310a7c8cec87402335bde388
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/10/2021
-ms.locfileid: "60889447"
+ms.lasthandoff: 10/21/2022
+ms.locfileid: "68667285"
 ---
 # <a name="set-up-a-microsoft-365-developer-sandbox-subscription"></a>Einrichten eines Microsoft 365-Entwickler-Sandboxabonnements 
 
-Richten Sie eine Microsoft 365-Entwickler-Sandbox ein, um unabhängig von Ihrer Produktionsumgebung Lösungen zu entwickeln. Ihre Mitgliedschaft im Entwicklerprogramm, dem Sie als reguläres Mitglied oder über Visual Studio Enterprise beitreten, umfasst ein Microsoft 365 E5-Entwickler-Sandboxabonnement mit 25 Benutzerlizenzen. Es gilt für 90 Tage und kann ausschließlich für Entwicklungszwecke (Codierung von Lösungen) kostenlos verwendet werden. 
+Richten Sie eine Microsoft 365-Entwickler-Sandbox ein, um unabhängig von Ihrer Produktionsumgebung Lösungen zu entwickeln. Ihre Mitgliedschaft im Entwicklerprogramm, dem Sie als reguläres Mitglied oder über Visual Studio Enterprise beitreten, umfasst ein Microsoft 365 E5-Entwickler-Sandboxabonnement mit 25 Benutzerlizenzen. Es gilt für 90 Tage und kann ausschließlich für Entwicklungszwecke (Codierung von Lösungen) kostenlos verwendet werden. Kommerzielle Transaktionen, einschließlich des Kaufs kostenpflichtiger Dienstleistungen, werden nicht unterstützt.
 
 > [!NOTE] 
 > Zum Einrichten eines Abonnements müssen Sie zuerst direkt oder über Visual Studio Professional oder Enterprise (wenn Sie Abonnent sind) [am Microsoft 365-Entwicklerprogramm teilnehmen](microsoft-365-developer-program.md). Danach haben Sie die Möglichkeit, ein Abonnement einzurichten.
